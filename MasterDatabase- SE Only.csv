@@ -1,0 +1,988 @@
+Current_connection,City,Region,Nationality,Gender,Exact_Age,Connection,Segment,Performance,Preference,TRIM_Index,Communication,Proposition,Sales_Experience,Opt_inout,Network_Satisfaction,Customer_Support,Billing_Payment
+Mobily,AD DAMMAM,Eastern,Expat Arabs,Male,29,Prepaid,LV,5,5,150,8,8,10,8,8,8,8
+Mobily,Other,Others,Expat Asians,Male,48,Prepaid,VLV,4,4,100,8,6,8,,7,7,9
+Mobily,JEDDAH,Western,Expat Arabs,Male,50,Prepaid,VLV,5,5,150,10,10,9,10,10,10,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,35,Prepaid,VLV,4,4,100,8,10,9,10,10,8,9
+Mobily,JEDDAH,Western,Nationals,Male,38,Postpaid,VLV,5,4,125,6,1,5,5,8,10,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,28,Prepaid,VLV,5,3,100,0,10,10,7,9,10,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,32,Postpaid,VHV,3,4,75,8,9,9,9,7,9,8
+Mobily,AR RIYADH,Central,Expat Arabs,Male,45,Postpaid,VHV,4,3,75,1,8,8,7,6,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,27,Postpaid,VHV,3,3,50,5,7,6,5,5,6,4
+Mobily,JEDDAH,Western,Expat Arabs,Male,31,Postpaid,VLV,2,3,25,10,5,10,10,10,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,40,Postpaid,VHV,5,4,125,0,3,3,,5,9,9
+Mobily,HAFAR AL BATIN,Eastern,Expat Arabs,Male,23,Prepaid,VLV,4,3,75,10,10,10,10,8,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,30,Postpaid,VHV,3,4,75,,,9,10,6,2,10
+Mobily,JEDDAH,Western,Nationals,Male,40,Postpaid,VHV,3,1,0,7,7,5,5,5,5,5
+Mobily,AL KHUBAR,Eastern,Expat Arabs,Male,40,Postpaid,LV,4,4,100,10,8,9,8,9,9,9
+Mobily,AR RIYADH,Central,Expat Asians,Male,37,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Mobily,Other,Others,Nationals,Male,35,Prepaid,LV,5,5,150,10,10,10,10,9,10,10
+Mobily,Other,Others,Expat Arabs,Male,30,Prepaid,VLV,4,3,75,10,8,10,10,10,10,9
+Mobily,AR RIYADH,Central,Nationals,Female,22,Prepaid,VLV,4,3,75,8,7,8,8,8,9,7
+Mobily,JEDDAH,Western,Expat Asians,Male,30,Prepaid,VLV,4,3,75,,,10,,10,10,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,35,Postpaid,VHV,4,4,100,5,7,8,8,6,8,8
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Expat Arabs,Male,53,Prepaid,LV,3,3,50,6,7,8,6,7,8,8
+Mobily,Other,Others,Expat Arabs,Male,48,Postpaid,HV,3,3,50,7,6,7,7,6,8,7
+Mobily,AT TAIF,Western,Nationals,Male,40,Postpaid,VHV,4,4,100,10,10,10,10,8,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Expat Arabs,Male,27,Prepaid,VLV,3,5,100,10,5,10,8,8,10,10
+Mobily,TABUK,Northern,Expat Arabs,Male,28,Prepaid,VLV,5,3,100,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,29,Prepaid,VLV,3,3,50,7,9,9,7,5,9,6
+Mobily,AR RIYADH,Central,Expat Arabs,Male,32,Postpaid,VLV,5,5,150,10,8,8,10,10,10,10
+Mobily,TABUK,Northern,Expat Arabs,Male,32,Prepaid,VLV,4,3,75,9,9,9,8,9,9,9
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,50,Prepaid,VLV,2,2,0,0,10,10,10,5,10,10
+Mobily,AT TAIF,Western,Nationals,Male,55,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Mobily,Other,Others,Nationals,Male,36,Prepaid,VLV,3,3,50,8,10,6,7,4,5,8
+Mobily,AR RIYADH,Central,Nationals,Male,27,Postpaid,VLV,4,4,100,7,10,9,10,10,10,8
+Mobily,AL KHUBAR,Eastern,Nationals,Male,22,Postpaid,VLV,3,3,50,6,9,6,10,6,8,8
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,28,Postpaid,VLV,5,4,125,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,31,Postpaid,VHV,5,4,125,9,9,9,10,10,10,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,27,Prepaid,VHV,5,5,150,10,10,10,10,10,5,5
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,22,Prepaid,VLV,3,4,75,10,10,10,8,8,10,6
+Mobily,AT TAIF,Western,Nationals,Male,23,Prepaid,VLV,2,2,0,0,0,0,0,0,3,8
+Mobily,JEDDAH,Western,Expat Arabs,Male,27,Postpaid,VLV,5,5,150,5,9,8,10,8,10,7
+Mobily,AD DAMMAM,Eastern,Nationals,Male,35,Postpaid,VHV,2,2,0,7,7,9,8,5,8,7
+Mobily,AR RIYADH,Central,Nationals,Male,35,Prepaid,VLV,3,2,25,0,0,10,10,0,0,0
+Mobily,AR RIYADH,Central,Expat Arabs,Female,27,Postpaid,LV,4,4,100,5,8,10,10,9,10,10
+Mobily,AL JUBAIL,Eastern,Nationals,Male,30,Postpaid,VHV,3,3,50,9,10,7,6,7,10,7
+Mobily,JIZAN,South,Expat Arabs,Male,32,Postpaid,MV,3,4,75,8,9,7,7,5,6,6
+Mobily,JEDDAH,Western,Nationals,Male,26,Prepaid,LV,4,3,75,8,10,10,10,7,10,10
+Mobily,AR RIYADH,Central,Expat Asians,Male,28,Prepaid,VLV,3,3,50,7,7,7,7,7,6,7
+Mobily,Other,Others,Nationals,Male,42,Postpaid,HV,3,2,25,5,10,10,10,0,10,0
+Mobily,TABUK,Northern,Nationals,Male,20,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,22,Postpaid,VHV,4,5,125,8,7,9,9,8,10,9
+Mobily,JIZAN,South,Nationals,Male,30,Prepaid,VLV,4,3,75,8,6,6,8,8,8,8
+Mobily,Other,Others,Nationals,Male,45,Prepaid,VLV,5,5,150,10,10,10,10,10,,
+Mobily,JEDDAH,Western,Nationals,Male,40,Postpaid,LV,5,5,150,10,10,10,10,10,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Female,20,Postpaid,LV,5,4,125,10,6,7,10,7,10,7
+Mobily,JEDDAH,Western,Nationals,Male,53,Prepaid,MV,5,5,150,10,10,10,10,10,10,10
+Mobily,Other,Others,Nationals,Male,16,Postpaid,VLV,5,1,50,9,9,10,10,7,10,10
+Mobily,AL QATIF,Eastern,Nationals,Male,39,Postpaid,LV,2,3,25,5,10,10,8,10,9,9
+Mobily,JEDDAH,Western,Nationals,Male,41,Postpaid,VHV,1,1,-50,8,7,8,6,4,9,9
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,65,Prepaid,LV,5,5,150,8,10,10,10,10,10,10
+Mobily,BURAYDAH,Central,Nationals,Male,33,Postpaid,LV,5,5,150,9,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,39,Postpaid,VHV,3,2,25,2,0,0,0,5,5,8
+Mobily,AD DAMMAM,Eastern,Nationals,Male,46,Postpaid,HV,5,5,150,10,10,10,10,10,10,10
+Mobily,Other,Others,Nationals,Male,45,Postpaid,VHV,3,4,75,10,10,10,10,8,10,10
+Lebara,JEDDAH,Western,Expat Arabs,Male,27,Prepaid,HV,1,2,-25,8,8,5,10,10,8,1
+Friendi,AR RIYADH,Central,Expat Arabs,Male,40,Postpaid,LV,5,5,150,10,1,1,1,1,1,1
+STC,Other,Others,Expat Arabs,Male,41,Prepaid,VHV,2,5,75,10,9,10,10,10,10,10
+STC,AD DAMMAM,Eastern,Nationals,Male,27,Postpaid,HV,2,2,0,5,6,7,7,4,4,6
+STC,AR RIYADH,Central,Nationals,Male,30,Prepaid,MV,4,2,50,7,5,6,10,6,6,3
+STC,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,40,Postpaid,HV,4,3,75,10,3,8,8,8,10,8
+STC,AR RIYADH,Central,Expat Arabs,Male,49,Postpaid,VHV,4,4,100,10,10,10,10,10,9,10
+STC,AR RIYADH,Central,Nationals,Female,55,Prepaid,LV,5,5,150,,4,1,0,9,7,9
+STC,HAIL,Northern,Nationals,Male,39,Prepaid,VHV,5,5,150,10,10,10,10,7,10,10
+STC,AR RIYADH,Central,Nationals,Female,28,Prepaid,LV,1,1,-50,10,0,5,,5,0,0
+STC,AT TAIF,Western,Nationals,Male,40,Postpaid,HV,5,5,150,10,10,10,10,10,10,10
+STC,TABUK,Northern,Expat Arabs,Male,24,Prepaid,VHV,3,2,25,10,0,8,10,10,10,10
+STC,ABHA,South,Nationals,Male,36,Postpaid,HV,2,3,25,5,1,10,5,2,10,5
+STC,Other,Others,Nationals,Male,40,Prepaid,VLV,3,5,100,8,10,8,5,9,8,8
+STC,AR RIYADH,Central,Nationals,Male,45,Postpaid,MV,5,5,150,9,9,10,10,10,10,10
+STC,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,50,Prepaid,LV,5,3,100,10,10,10,10,8,10,
+STC,AT TAIF,Western,Expat Arabs,Male,35,Prepaid,VHV,5,5,150,10,10,10,10,10,10,10
+STC,AD DAMMAM,Eastern,Expat Arabs,Male,25,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+STC,KHAMIS MUSHAYT,South,Nationals,Male,25,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+STC,HAIL,Northern,Nationals,Male,55,Postpaid,HV,4,5,125,10,7,10,10,10,10,10
+STC,AR RIYADH,Central,Expat Arabs,Male,35,Prepaid,MV,4,5,125,9,8,8,10,8,10,10
+STC,BURAYDAH,Central,Nationals,Male,35,Postpaid,HV,3,3,50,6,3,8,8,7,9,7
+STC,JEDDAH,Western,Nationals,Male,40,Postpaid,VHV,4,,50,8,8,9,9,8,10,7
+STC,AR RIYADH,Central,Nationals,Male,50,Postpaid,VHV,3,2,25,3,3,2,1,2,10,3
+STC,JEDDAH,Western,Expat Asians,Male,35,Prepaid,VLV,4,4,100,,,8,7,10,9,10
+STC,JEDDAH,Western,Nationals,Male,28,Postpaid,MV,4,4,100,10,10,10,10,10,10,10
+STC,Other,Others,Nationals,Male,50,Prepaid,LV,5,5,150,3,5,10,10,5,10,10
+STC,AR RIYADH,Central,Nationals,Male,40,Postpaid,HV,3,3,50,8,9,9,7,8,8,7
+STC,Other,Others,Nationals,Male,35,Prepaid,MV,5,5,150,10,10,10,10,10,10,10
+STC,NAJRAN,South,Nationals,Male,31,Postpaid,VHV,5,4,125,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,23,Prepaid,VLV,4,4,100,8,4,7,8,10,8,8
+STC,JEDDAH,Western,Nationals,Male,40,Prepaid,LV,4,4,100,8,8,8,8,8,8,8
+STC,AR RIYADH,Central,Nationals,Male,58,Prepaid,LV,4,4,100,,7,7,8,5,7,7
+STC,Other,Others,Nationals,Male,31,Prepaid,VLV,4,4,100,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,39,Postpaid,LV,3,1,0,4,4,0,3,3,8,2
+STC,BURAYDAH,Central,Nationals,Female,26,Postpaid,MV,4,5,125,10,10,10,10,9,10,10
+STC,AR RIYADH,Central,Nationals,Male,43,Postpaid,VHV,3,4,75,5,4,3,5,6,6,0
+STC,HAIL,Northern,Nationals,Male,60,Prepaid,LV,5,5,150,,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,45,Postpaid,HV,5,5,150,7,6,8,6,9,7,8
+STC,Other,Others,Nationals,Male,30,Prepaid,LV,3,3,50,5,2,4,3,3,5,6
+STC,HAIL,Northern,Nationals,Male,44,Prepaid,MV,3,3,50,,5,8,10,5,8,5
+STC,ABHA,South,Nationals,Male,40,Postpaid,HV,4,4,100,8,6,7,7,7,8,7
+STC,AR RIYADH,Central,Nationals,Male,45,Postpaid,VHV,4,5,125,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,45,Postpaid,VHV,5,5,150,10,5,10,5,10,10,5
+STC,AR RIYADH,Central,Nationals,Male,33,Postpaid,HV,5,5,150,5,4,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,50,Postpaid,VHV,4,4,100,9,9,9,9,9,9,10
+STC,JEDDAH,Western,Nationals,Male,35,Prepaid,LV,4,3,75,4,7,10,10,6,10,5
+STC,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,58,Postpaid,VHV,5,5,150,10,9,9,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,42,Postpaid,MV,3,2,25,5,1,5,3,6,2,4
+STC,AR RIYADH,Central,Nationals,Female,52,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+STC,Other,Others,Nationals,Male,35,Prepaid,LV,1,3,0,2,7,9,8,6,10,8
+STC,AR RIYADH,Central,Nationals,Male,50,Postpaid,HV,3,3,50,5,3,3,4,5,3,3
+STC,Other,Others,Nationals,Male,38,Prepaid,LV,3,3,50,3,3,1,4,2,1,0
+STC,AR RIYADH,Central,Nationals,Male,36,Prepaid,LV,5,5,150,7,7,10,7,10,10,10
+Zain,AL KHUBAR,Eastern,Expat Arabs,Male,32,Postpaid,VHV,4,4,100,,10,10,8,7,10,7
+Zain,JEDDAH,Western,Expat Arabs,Male,42,Prepaid,LV,3,2,25,10,0,8,8,0,10,0
+Zain,BURAYDAH,Central,Nationals,Male,30,Postpaid,LV,5,5,150,9,10,10,10,10,10,9
+Zain,HAIL,Northern,Nationals,Male,40,Postpaid,HV,2,3,25,8,8,8,8,6,9,8
+Zain,AR RIYADH,Central,Expat Arabs,Male,25,Prepaid,VLV,4,1,25,10,10,10,10,10,10,8
+Zain,MAKKAH AL MUKARRAMAH,Western,Expat Asians,Male,31,Prepaid,LV,4,4,100,10,10,10,10,10,9,10
+Zain,TABUK,Northern,Nationals,Female,27,Postpaid,MV,3,3,50,9,10,10,10,5,10,10
+Zain,AL JUBAIL,Eastern,Expat Asians,Male,37,Prepaid,MV,3,3,50,10,7,10,,7,0,10
+Zain,Other,Others,Nationals,Male,24,Postpaid,LV,5,5,150,10,10,10,10,10,10,10
+Zain,AR RIYADH,Central,Expat Arabs,Male,58,Prepaid,LV,3,3,50,8,10,10,10,8,10,8
+Zain,JEDDAH,Western,Expat Arabs,Male,40,Prepaid,MV,4,3,75,5,8,8,8,8,8,6
+Zain,AR RIYADH,Central,Expat Arabs,Male,50,Postpaid,VLV,4,4,100,8,10,10,10,8,10,9
+Zain,AR RIYADH,Central,Expat Asians,Male,25,Prepaid,HV,1,1,-50,0,0,1,1,0,0,0
+Zain,AD DAMMAM,Eastern,Expat Arabs,Male,30,Postpaid,VLV,4,1,25,8,8,10,10,8,10,10
+Mobily,JEDDAH,Western,Nationals,Male,24,Prepaid,VLV,5,4,125,10,10,10,10,10,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Expat Arabs,Male,27,Prepaid,VLV,5,5,150,,10,10,10,10,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Expat Arabs,Male,33,Prepaid,MV,4,4,100,10,8,9,10,9,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,23,Postpaid,VLV,4,1,25,6,4,6,4,6,8,4
+Mobily,AR RIYADH,Central,Nationals,Male,22,Postpaid,MV,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,50,Prepaid,LV,5,4,125,9,9,9,10,9,9,9
+Mobily,AD DAMMAM,Eastern,Expat Arabs,Male,35,Postpaid,MV,5,4,125,10,9,10,10,9,10,10
+Mobily,JEDDAH,Western,Nationals,Male,51,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Mobily,AD DAMMAM,Eastern,Nationals,Female,40,Prepaid,LV,4,4,100,10,8,9,8,10,10,10
+Mobily,BURAYDAH,Central,Nationals,Male,27,Prepaid,VLV,3,2,25,4,6,5,5,5,10,3
+Mobily,JEDDAH,Western,Nationals,Female,29,Postpaid,HV,4,4,100,10,8,9,10,10,8,9
+Mobily,AL KHUBAR,Eastern,Nationals,Male,39,Postpaid,MV,4,5,125,10,10,10,10,10,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Expat Arabs,Male,46,Postpaid,MV,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,31,Postpaid,LV,5,5,150,9,10,10,10,9,10,10
+Mobily,Other,Others,Nationals,Male,36,Postpaid,LV,4,4,100,3,8,2,8,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,33,Postpaid,LV,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,27,Postpaid,HV,3,5,100,7,4,5,3,0,2,3
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,29,Prepaid,VHV,5,5,150,1,10,10,10,10,10,10
+Mobily,BURAYDAH,Central,Expat Asians,Male,31,Prepaid,VLV,4,4,100,7,6,9,10,6,0,8
+Mobily,JEDDAH,Western,Nationals,Female,22,Prepaid,VLV,5,3,100,8,7,8,9,8,7,8
+Mobily,MAKKAH AL MUKARRAMAH,Western,Expat Arabs,Female,40,Prepaid,LV,5,5,150,6,10,10,10,10,10,10
+Mobily,Other,Others,Nationals,Female,20,Postpaid,VLV,5,3,100,10,9,9,10,10,10,10
+Mobily,AT TAIF,Western,Nationals,Male,64,Postpaid,VHV,5,5,150,9,9,10,9,8,10,9
+Mobily,JEDDAH,Western,Nationals,Male,41,Postpaid,HV,2,1,-25,,0,9,0,8,10,6
+Mobily,JEDDAH,Western,Expat Arabs,Male,32,Prepaid,LV,5,4,125,8,5,10,9,10,8,8
+Mobily,JEDDAH,Western,Nationals,Male,30,Postpaid,VHV,5,4,125,8,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,35,Postpaid,HV,4,4,100,10,10,10,10,9,10,10
+Mobily,JIZAN,South,Nationals,Male,30,Postpaid,VHV,1,1,-50,0,6,6,0,0,6,0
+Mobily,AR RIYADH,Central,Expat Arabs,Male,44,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,26,Postpaid,LV,4,3,75,7,8,8,5,7,8,5
+Mobily,AL HUFUF,Eastern,Nationals,Male,35,Postpaid,VHV,4,4,100,9,9,10,9,9,9,9
+Mobily,AL BAHA,South,Expat Arabs,Male,40,Prepaid,VLV,5,5,150,10,10,10,10,10,10,8
+Mobily,YANBU AN NAKHL,Northern,Nationals,Male,46,Postpaid,HV,3,3,50,7,,8,8,8,10,9
+Mobily,AR RIYADH,Central,Expat Arabs,Male,32,Postpaid,MV,4,4,100,10,10,10,10,8,7,8
+Mobily,Other,Others,Nationals,Male,40,Prepaid,VLV,4,3,75,10,8,10,7,7,9,6
+Mobily,Other,Others,Nationals,Male,24,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Mobily,BURAYDAH,Central,Nationals,Male,22,Prepaid,VLV,5,5,150,,10,10,10,10,10,10
+Mobily,Other,Others,Nationals,Male,50,Postpaid,LV,3,3,50,8,7,8,8,8,0,7
+Mobily,KHAMIS MUSHAYT,South,Nationals,Male,43,Postpaid,VHV,4,2,50,10,7,7,8,7,9,9
+Mobily,AD DAMMAM,Eastern,Expat Arabs,Male,43,Prepaid,VLV,4,2,50,8,7,8,9,10,7,7
+Mobily,AR RIYADH,Central,Nationals,Male,38,Postpaid,VHV,3,3,50,7,7,8,7,4,8,10
+Mobily,AL KHUBAR,Eastern,Expat Arabs,Male,42,Postpaid,VHV,3,3,50,7,5,8,7,7,8,5
+Mobily,AR RIYADH,Central,Nationals,Male,25,Postpaid,HV,3,1,0,0,2,0,5,2,10,10
+Mobily,JEDDAH,Western,Nationals,Male,26,Postpaid,LV,5,5,150,10,10,10,10,7,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,27,Prepaid,LV,3,4,75,8,9,9,9,9,9,8
+Mobily,Other,Others,Nationals,Male,60,Prepaid,VLV,5,4,125,10,7,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,35,Postpaid,MV,4,4,100,,10,10,7,7,10,7
+Mobily,NAJRAN,South,Nationals,Female,30,Prepaid,VLV,4,4,100,6,8,8,8,8,8,7
+Mobily,JEDDAH,Western,Nationals,Male,20,Postpaid,VLV,4,1,25,8,9,10,9,10,10,8
+Mobily,AR RIYADH,Central,Nationals,Male,36,Postpaid,VLV,3,3,50,0,4,5,4,2,5,2
+Mobily,TABUK,Northern,Nationals,Male,30,Postpaid,VHV,2,2,0,3,3,10,10,2,8,5
+Mobily,Other,Others,Nationals,Male,25,Prepaid,LV,5,4,125,10,10,10,10,10,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Female,47,Postpaid,HV,3,3,50,6,8,7,9,7,6,6
+Mobily,AR RIYADH,Central,Nationals,Male,24,Postpaid,VHV,3,3,50,6,8,10,7,9,9,7
+Mobily,AL BAHA,South,Nationals,Male,30,Postpaid,VLV,4,3,75,8,10,10,9,10,10,8
+Mobily,JEDDAH,Western,Nationals,Female,48,Postpaid,VLV,5,5,150,10,10,10,10,10,10,10
+Mobily,AD DAMMAM,Eastern,Nationals,Male,34,Postpaid,VHV,4,4,100,3,9,10,7,9,9,9
+Mobily,AR RIYADH,Central,Nationals,Male,33,Postpaid,VHV,5,4,125,10,10,10,10,10,0,10
+Mobily,AR RIYADH,Central,Nationals,Female,42,Postpaid,MV,5,3,100,10,10,10,10,8,10,10
+Mobily,AR RIYADH,Central,Nationals,Female,23,Prepaid,VLV,4,2,50,6,7,6,7,7,8,6
+Mobily,JEDDAH,Western,Nationals,Male,22,Postpaid,VHV,5,3,100,,7,9,8,9,10,8
+Mobily,AR RIYADH,Central,Nationals,Male,43,Postpaid,VHV,5,4,125,10,10,10,10,9,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,21,Postpaid,HV,5,5,150,7,7,7,10,7,4,10
+Mobily,AR RIYADH,Central,Nationals,Male,38,Postpaid,MV,4,3,75,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Asians,Male,28,Prepaid,VLV,3,2,25,0,0,10,0,5,10,10
+STC,AT TAIF,Western,Expat Arabs,Male,30,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+STC,JEDDAH,Western,Nationals,Female,22,Postpaid,LV,3,2,25,0,7,5,8,3,2,1
+STC,TABUK,Northern,Nationals,Male,39,Postpaid,VHV,5,1,50,10,6,10,10,8,10,10
+STC,Other,Others,Nationals,Female,20,Postpaid,LV,3,3,50,8,6,6,5,5,8,5
+STC,KHAMIS MUSHAYT,South,Nationals,Male,45,Postpaid,VHV,2,3,25,7,8,8,5,3,2,1
+STC,AR RIYADH,Central,Nationals,Male,18,Prepaid,LV,4,4,100,8,8,7,10,9,10,10
+STC,AR RIYADH,Central,Expat Arabs,Male,52,Postpaid,HV,5,5,150,10,10,10,10,10,10,10
+STC,AD DAMMAM,Eastern,Expat Arabs,Male,30,Prepaid,HV,5,5,150,10,10,10,10,10,10,
+STC,AR RIYADH,Central,Expat Arabs,Male,57,Prepaid,LV,3,5,100,10,10,10,10,10,10,10
+STC,Other,Others,Expat Arabs,Male,52,Prepaid,VLV,4,4,100,7,7,7,7,8,8,6
+STC,JEDDAH,Western,Expat Arabs,Male,33,Prepaid,VHV,5,5,150,7,7,5,6,9,9,8
+STC,HAFAR AL BATIN,Eastern,Nationals,Male,38,Postpaid,MV,2,3,25,9,7,9,10,8,9,10
+STC,AR RIYADH,Central,Nationals,Male,48,Postpaid,HV,3,4,75,8,8,10,10,8,8,7
+STC,Other,Others,Nationals,Male,50,Prepaid,VLV,4,3,75,8,0,8,8,10,10,3
+STC,AR'AR,Northern,Nationals,Male,30,Prepaid,MV,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,40,Postpaid,HV,1,1,-50,2,0,2,1,2,3,0
+STC,BURAYDAH,Central,Nationals,Male,28,Postpaid,HV,3,3,50,,10,7,10,7,8,10
+STC,JIZAN,South,Nationals,Male,32,Prepaid,VHV,5,5,150,10,5,10,10,10,9,10
+STC,JEDDAH,Western,Nationals,Male,50,Prepaid,MV,3,5,100,8,8,8,10,10,10,10
+STC,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,21,Prepaid,VHV,5,5,150,9,9,7,5,10,8,7
+STC,AL QURAYYAT,Northern,Nationals,Male,22,Prepaid,LV,4,,50,4,5,6,8,6,7,5
+STC,AD DAMMAM,Eastern,Nationals,Female,32,Postpaid,VHV,5,1,50,10,10,10,10,10,10,10
+STC,AT TAIF,Western,Nationals,Male,32,Prepaid,LV,4,5,125,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,48,Postpaid,VHV,5,5,150,10,10,10,10,10,10,10
+STC,JEDDAH,Western,Nationals,Female,20,Prepaid,VLV,5,5,150,5,10,8,10,9,10,5
+STC,AR RIYADH,Central,Nationals,Male,54,Postpaid,VHV,2,2,0,9,9,8,8,6,9,5
+STC,JEDDAH,Western,Nationals,Male,37,Postpaid,LV,3,3,50,5,0,8,7,8,8,8
+STC,AR RIYADH,Central,Nationals,Male,20,Prepaid,HV,3,4,75,7,6,8,10,7,9,9
+STC,AR RIYADH,Central,Nationals,Male,62,Postpaid,MV,2,2,0,0,0,10,0,5,10,0
+STC,AR RIYADH,Central,Nationals,Male,43,Postpaid,VHV,1,2,-25,8,4,8,,4,8,5
+STC,AD DAMMAM,Eastern,Nationals,Male,25,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+STC,JIZAN,South,Nationals,Male,31,Postpaid,VHV,5,5,150,10,10,10,10,10,10,10
+STC,JEDDAH,Western,Nationals,Male,40,Postpaid,VHV,4,,50,9,9,9,7,8,9,8
+Zain,JEDDAH,Western,Nationals,Male,35,Postpaid,MV,5,5,150,10,10,8,10,8,10,10
+Zain,AD DAMMAM,Eastern,Expat Arabs,Male,38,Prepaid,LV,2,2,0,6,9,8,10,7,10,2
+Zain,SAFWA,Eastern,Expat Arabs,Male,30,Postpaid,MV,4,4,100,10,10,10,10,10,10,9
+Zain,Other,Others,Nationals,Male,25,Postpaid,MV,3,3,50,9,9,10,5,8,10,10
+Zain,Other,Others,Expat Arabs,Male,25,Prepaid,HV,3,3,50,10,10,10,10,10,10,10
+Zain,AR RIYADH,Central,Expat Arabs,Male,26,Prepaid,VLV,5,5,150,7,10,8,9,10,8,9
+Zain,AR RIYADH,Central,Expat Arabs,Female,35,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Zain,JEDDAH,Western,Nationals,Female,23,Postpaid,LV,3,4,75,10,9,9,8,8,8,9
+Mobily,SAKAKA,Northern,Expat Arabs,Male,40,Prepaid,VLV,4,3,75,7,6,8,9,9,10,8
+Mobily,JEDDAH,Western,Nationals,Male,32,Prepaid,LV,3,5,100,3,8,3,8,6,10,5
+Mobily,Other,Others,Nationals,Male,34,Prepaid,LV,5,4,125,10,10,10,10,8,10,9
+Mobily,JEDDAH,Western,Nationals,Female,20,Prepaid,LV,4,5,125,10,10,10,10,10,10,0
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Expat Arabs,Female,29,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Female,31,Postpaid,VLV,5,5,150,7,10,8,8,9,10,8
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,56,Prepaid,VLV,5,5,150,10,10,10,10,10,0,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,29,Prepaid,VLV,4,4,100,7,7,7,8,8,8,7
+Mobily,AD DAMMAM,Eastern,Expat Arabs,Male,24,Prepaid,VLV,4,4,100,7,10,0,8,5,8,5
+Mobily,AR RIYADH,Central,Nationals,Female,39,Postpaid,VLV,5,3,100,10,10,10,10,10,10,10
+Mobily,AL BAHA,South,Nationals,Male,32,Prepaid,LV,2,5,75,10,10,10,10,5,10,10
+Mobily,JEDDAH,Western,Nationals,Male,39,Postpaid,VLV,3,3,50,6,3,7,,4,8,5
+Mobily,JEDDAH,Western,Expat Arabs,Male,44,Prepaid,VLV,4,4,100,8,10,9,10,10,8,10
+Mobily,AL HUFUF,Eastern,Nationals,Male,35,Postpaid,VHV,5,2,75,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,45,Postpaid,VHV,5,5,150,10,9,10,9,9,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,30,Postpaid,LV,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Female,43,Postpaid,LV,5,4,125,10,10,10,10,10,10,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,32,Prepaid,VLV,4,3,75,10,10,8,10,8,9,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,50,Postpaid,MV,5,5,150,10,10,10,10,10,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Expat Arabs,Male,29,Prepaid,VLV,5,,75,3,6,10,0,8,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,37,Postpaid,MV,5,5,150,,9,10,10,10,10,8
+Mobily,JEDDAH,Western,Expat Arabs,Male,33,Prepaid,LV,4,4,100,8,10,8,10,10,10,10
+Mobily,Other,Others,Expat Asians,Male,50,Postpaid,VLV,5,3,100,7,10,10,10,10,8,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,60,Postpaid,VHV,5,,75,7,6,8,7,10,9,10
+Mobily,Other,Others,Expat Arabs,Female,40,Postpaid,VLV,4,4,100,3,9,9,6,8,10,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,22,Prepaid,VLV,5,5,150,3,10,10,10,5,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,25,Postpaid,VLV,3,3,50,5,10,10,3,7,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Expat Arabs,Male,60,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Female,32,Prepaid,VLV,5,5,150,5,5,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,40,Prepaid,VLV,5,4,125,5,8,10,10,6,10,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,37,Postpaid,VHV,2,2,0,5,2,7,0,2,0,0
+Mobily,HAIL,Northern,Nationals,Male,26,Postpaid,HV,4,4,100,7,10,10,10,7,10,9
+Mobily,AL HUFUF,Eastern,Nationals,Male,42,Postpaid,VLV,5,5,150,9,8,9,9,8,10,9
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,60,Postpaid,HV,5,5,150,,10,10,10,10,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Female,40,Postpaid,VHV,2,4,50,8,7,9,9,7,8,9
+Mobily,JEDDAH,Western,Expat Arabs,Male,30,Postpaid,MV,4,4,100,10,6,10,10,10,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,40,Postpaid,VHV,4,1,25,6,7,8,7,8,7,9
+Mobily,JEDDAH,Western,Nationals,Male,30,Postpaid,HV,4,4,100,0,9,9,9,9,9,9
+Mobily,AR RIYADH,Central,Nationals,Male,34,Postpaid,MV,3,4,75,1,8,5,9,8,9,8
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,31,Postpaid,VHV,4,3,75,7,7,7,8,8,8,8
+Mobily,Other,Others,Nationals,Male,38,Postpaid,VHV,5,3,100,5,5,3,5,1,7,6
+Mobily,AR RIYADH,Central,Expat Arabs,Male,42,Postpaid,HV,5,5,150,10,10,10,10,10,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,20,Prepaid,LV,5,3,100,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,29,Prepaid,VLV,2,3,25,10,7,6,10,10,8,8
+Mobily,Other,Others,Nationals,Male,40,Postpaid,VHV,5,5,150,10,10,10,10,10,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,25,Postpaid,VHV,5,5,150,10,0,8,9,9,7,7
+Mobily,AR RIYADH,Central,Expat Arabs,Male,35,Postpaid,VLV,4,5,125,8,10,7,9,10,10,8
+Mobily,AR RIYADH,Central,Nationals,Male,50,Prepaid,VLV,3,1,0,10,6,2,4,8,1,4
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,40,Prepaid,VLV,1,2,-25,5,0,10,0,10,8,0
+Mobily,JIZAN,South,Nationals,Female,40,Prepaid,LV,5,3,100,10,10,10,8,10,10,10
+Mobily,AD DAMMAM,Eastern,Nationals,Male,25,Postpaid,VHV,4,5,125,8,8,10,10,8,10,10
+Mobily,JIZAN,South,Nationals,Male,18,Prepaid,VLV,3,2,25,8,8,7,8,8,7,7
+Mobily,Other,Others,Nationals,Male,23,Postpaid,MV,3,4,75,10,10,10,10,7,10,8
+Mobily,AR RIYADH,Central,Nationals,Female,34,Postpaid,VHV,4,5,125,9,10,10,10,9,10,10
+Mobily,ABHA,South,Nationals,Male,19,Prepaid,VLV,5,3,100,0,10,9,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,29,Prepaid,VLV,4,5,125,10,10,10,10,8,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,28,Postpaid,HV,1,1,-50,0,0,0,0,8,10,6
+Mobily,RAFHA',Northern,Nationals,Male,21,Prepaid,VLV,5,4,125,10,10,10,10,10,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,27,Prepaid,LV,3,3,50,5,8,8,8,9,9,9
+Mobily,AR RIYADH,Central,Nationals,Male,23,Postpaid,MV,,1,-25,6,3,8,5,1,3,3
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Female,26,Postpaid,LV,4,4,100,9,10,10,10,9,10,8
+Mobily,Other,Others,Nationals,Male,25,Postpaid,VHV,5,5,150,10,10,10,10,10,10,10
+Mobily,SAYHAT,Eastern,Nationals,Male,40,Postpaid,HV,1,1,-50,0,0,2,0,2,8,8
+Mobily,SAKAKA,Northern,Nationals,Male,53,Postpaid,LV,5,4,125,8,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Asians,Male,37,Prepaid,VLV,4,4,100,10,10,10,10,10,8,10
+Lebara,JIZAN,South,Expat Arabs,Male,35,Prepaid,LV,4,5,125,0,0,10,0,8,8,10
+Friendi,AT TAIF,Western,Expat Arabs,Male,41,Prepaid,VLV,4,5,125,10,10,10,10,10,10,10
+STC,AL BAHA,South,Nationals,Female,20,Postpaid,HV,4,3,75,10,10,10,10,10,10,10
+STC,AL BAHA,South,Nationals,Male,31,Prepaid,VLV,4,5,125,10,10,7,10,10,10,8
+STC,AR RIYADH,Central,Nationals,Male,24,Prepaid,LV,5,5,150,9,7,9,10,10,10,10
+STC,AR RIYADH,Central,Expat Arabs,Male,27,Prepaid,VLV,5,4,125,10,9,10,10,10,10,10
+STC,JIZAN,South,Expat Arabs,Male,28,Prepaid,VLV,4,5,125,10,10,10,10,10,10,10
+STC,Other,Others,Nationals,Male,26,Postpaid,HV,4,5,125,,8,10,10,10,10,7
+STC,AL KHUBAR,Eastern,Expat Arabs,Male,35,Postpaid,MV,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Female,48,Postpaid,HV,4,4,100,10,10,10,10,6,10,6
+STC,AR RIYADH,Central,Nationals,Male,45,Prepaid,LV,4,3,75,7,10,10,10,5,10,7
+STC,Other,Others,Nationals,Female,30,Prepaid,MV,5,3,100,10,10,10,6,10,10,10
+STC,Other,Others,Nationals,Male,28,Postpaid,MV,4,3,75,9,8,9,8,9,6,9
+STC,AR RIYADH,Central,Nationals,Male,41,Prepaid,LV,5,4,125,5,9,2,10,0,5,9
+STC,HAIL,Northern,Expat Arabs,Male,29,Prepaid,LV,5,4,125,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,29,Postpaid,VHV,2,2,0,4,6,8,7,5,8,6
+STC,AR RIYADH,Central,Expat Arabs,Male,23,Prepaid,LV,5,4,125,10,3,3,10,4,10,5
+STC,MAKKAH AL MUKARRAMAH,Western,Expat Arabs,Male,36,Prepaid,VLV,4,4,100,10,8,10,10,10,10,9
+STC,AR RIYADH,Central,Nationals,Male,18,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+STC,NAJRAN,South,Nationals,Male,23,Postpaid,MV,4,3,75,6,4,5,7,5,6,10
+STC,TABUK,Northern,Nationals,Male,34,Prepaid,VHV,5,5,150,,10,10,8,10,8,8
+STC,Other,Others,Nationals,Male,37,Postpaid,HV,5,5,150,7,10,10,8,10,10,6
+STC,NAJRAN,South,Expat Arabs,Male,27,Prepaid,LV,5,5,150,10,10,10,10,10,,10
+STC,JEDDAH,Western,Expat Arabs,Female,30,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+STC,NAJRAN,South,Nationals,Male,40,Prepaid,LV,5,5,150,10,10,10,7,10,10,8
+STC,AT TAIF,Western,Nationals,Male,40,Postpaid,VHV,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Female,35,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+STC,Other,Others,Nationals,Female,21,Prepaid,HV,3,4,75,3,3,7,,9,0,2
+STC,AR RIYADH,Central,Nationals,Male,27,Prepaid,LV,5,3,100,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Expat Arabs,Female,39,Prepaid,LV,5,5,150,10,7,10,9,10,10,10
+STC,AD DAMMAM,Eastern,Nationals,Male,19,Prepaid,VLV,5,5,150,10,10,10,7,6,10,10
+STC,Other,Others,Nationals,Male,42,Prepaid,LV,5,5,150,5,10,10,10,10,10,10
+Zain,JIZAN,South,Nationals,Male,39,Postpaid,HV,5,5,150,10,10,10,10,10,10,10
+Zain,JEDDAH,Western,Expat Asians,Male,36,Prepaid,VHV,3,2,25,5,6,6,4,0,6,6
+Zain,AR RIYADH,Central,Expat Arabs,Female,27,Prepaid,HV,5,5,150,10,10,10,10,10,9,9
+Zain,AR RIYADH,Central,Expat Arabs,Male,30,Postpaid,LV,5,3,100,8,8,10,10,10,10,10
+Zain,MAKKAH AL MUKARRAMAH,Western,Nationals,Female,25,Prepaid,LV,5,3,100,10,10,10,10,9,10,10
+Mobily,JIZAN,South,Nationals,Male,37,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,30,Postpaid,VHV,4,5,125,10,10,10,10,8,10,10
+Mobily,Other,Others,Nationals,Male,28,Prepaid,LV,2,2,0,5,10,6,5,6,5,7
+Mobily,Other,Others,Nationals,Male,25,Postpaid,VLV,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,54,Postpaid,VHV,2,2,0,8,0,10,8,0,10,8
+Mobily,JEDDAH,Western,Nationals,Male,33,Postpaid,VHV,5,5,150,10,10,10,10,10,10,10
+Mobily,Other,Others,Nationals,Male,39,Prepaid,VLV,4,4,100,10,10,9,10,8,10,9
+Mobily,AR RIYADH,Central,Nationals,Male,32,Postpaid,VHV,1,1,-50,0,2,5,2,0,0,3
+Mobily,AR RIYADH,Central,Nationals,Male,32,Postpaid,HV,3,5,100,,10,10,10,10,10,8
+Mobily,JEDDAH,Western,Expat Arabs,Male,45,Postpaid,MV,5,5,150,10,10,8,10,10,10,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,33,Postpaid,VLV,5,3,100,10,,10,8,8,10,8
+Mobily,ADH DHAHRAN,Eastern,Expat Asians,Male,40,Postpaid,VHV,4,1,25,8,7,8,6,7,8,5
+Mobily,JEDDAH,Western,Expat Asians,Male,39,Postpaid,VHV,3,1,0,3,0,0,3,2,0,5
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,26,Prepaid,VHV,3,4,75,7,9,9,10,7,10,9
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,29,Postpaid,HV,3,4,75,5,10,10,10,4,6,4
+Mobily,AL BAHA,South,Nationals,Female,21,Postpaid,LV,5,4,125,10,10,10,10,10,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,40,Postpaid,LV,2,3,25,10,6,9,7,0,9,4
+Mobily,JEDDAH,Western,Nationals,Male,25,Postpaid,HV,5,5,150,10,10,10,10,10,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,31,Postpaid,HV,4,4,100,4,8,8,9,9,9,8
+Mobily,MAKKAH AL MUKARRAMAH,Western,Expat Arabs,Male,50,Postpaid,MV,5,5,150,8,10,8,10,10,10,8
+Mobily,AT TAIF,Western,Nationals,Male,20,Postpaid,HV,3,2,25,10,0,0,0,0,10,10
+Mobily,AD DAMMAM,Eastern,Expat Asians,Male,22,Postpaid,VLV,4,4,100,7,9,9,6,9,9,9
+Mobily,JEDDAH,Western,Expat Asians,Male,47,Prepaid,VLV,5,5,150,5,5,5,5,9,2,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Expat Arabs,Female,37,Postpaid,VLV,5,5,150,10,10,8,10,8,,9
+Mobily,Other,Others,Expat Arabs,Male,35,Prepaid,VLV,5,4,125,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,35,Postpaid,VHV,5,5,150,10,10,10,10,10,10,10
+Mobily,AT TAIF,Western,Expat Arabs,Male,50,Postpaid,VLV,3,1,0,10,7,5,8,10,10,5
+Mobily,AR RIYADH,Central,Expat Arabs,Female,26,Prepaid,VLV,4,3,75,10,9,9,9,9,10,9
+Mobily,AR RIYADH,Central,Expat Arabs,Male,32,Postpaid,MV,3,3,50,8,3,8,8,6,,5
+Mobily,Other,Others,Expat Arabs,Male,30,Postpaid,HV,5,5,150,8,7,10,10,10,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,31,Postpaid,HV,4,5,125,0,10,8,8,8,10,3
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,27,Postpaid,MV,2,1,-25,1,3,4,4,0,8,5
+Mobily,AR RIYADH,Central,Expat Arabs,Male,38,Postpaid,VHV,5,4,125,10,10,10,10,10,10,10
+Mobily,AL KHUBAR,Eastern,Expat Asians,Male,28,Postpaid,LV,1,4,25,8,8,9,9,9,9,9
+Mobily,Other,Others,Nationals,Male,35,Postpaid,VHV,4,5,125,1,7,1,5,10,10,10
+Mobily,JEDDAH,Western,Expat Asians,Male,38,Postpaid,VLV,5,5,150,8,10,7,7,8,7,10
+Mobily,AL KHUBAR,Eastern,Nationals,Male,28,Postpaid,HV,4,3,75,10,10,10,10,8,9,10
+Mobily,AR RIYADH,Central,Nationals,Male,25,Postpaid,HV,5,4,125,10,8,8,10,10,10,8
+Mobily,AR RIYADH,Central,Expat Arabs,Male,60,Postpaid,LV,5,5,150,,10,10,10,10,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,30,Postpaid,LV,2,1,-25,,6,6,5,4,6,2
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,46,Postpaid,MV,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,36,Postpaid,MV,5,5,150,8,10,10,9,8,9,8
+Mobily,JEDDAH,Western,Expat Asians,Male,30,Prepaid,VLV,3,3,50,7,7,7,10,7,6,10
+Mobily,AD DAMMAM,Eastern,Expat Asians,Male,34,Prepaid,LV,4,3,75,7,7,8,6,7,8,7
+Mobily,AR RIYADH,Central,Expat Asians,Male,62,Postpaid,LV,4,4,100,9,9,9,9,9,8,9
+Mobily,Other,Others,Nationals,Male,40,Postpaid,VHV,5,2,75,8,8,10,10,10,10,10
+Mobily,AL BAHA,South,Nationals,Male,43,Postpaid,HV,4,4,100,,8,8,8,8,8,5
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,48,Postpaid,HV,5,1,50,10,8,10,10,10,10,10
+Mobily,YANBU AN NAKHL,Northern,Nationals,Male,34,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,25,Postpaid,HV,2,2,0,9,8,8,8,8,10,10
+Mobily,Other,Others,Nationals,Male,23,Postpaid,HV,2,2,0,10,3,10,8,3,10,5
+Mobily,Other,Others,Nationals,Male,60,Postpaid,HV,5,5,150,8,10,10,8,8,9,10
+Mobily,JEDDAH,Western,Nationals,Male,17,Prepaid,VLV,4,3,75,7,10,10,10,10,9,10
+STC,AD DAMMAM,Eastern,Nationals,Male,45,Postpaid,HV,5,5,150,8,7,8,8,10,10,9
+STC,AR RIYADH,Central,Nationals,Male,60,Postpaid,HV,3,3,50,5,7,6,5,3,7,6
+STC,TABUK,Northern,Expat Asians,Male,35,Prepaid,VLV,4,4,100,10,10,10,9,10,10,10
+STC,Other,Others,Nationals,Female,26,Prepaid,VHV,3,,25,10,10,10,,3,10,9
+STC,JIZAN,South,Nationals,Male,40,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+STC,HAIL,Northern,Nationals,Male,36,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+STC,ABHA,South,Nationals,Male,18,Prepaid,MV,5,5,150,7,10,10,10,10,10,10
+STC,AR'AR,Northern,Nationals,Male,40,Prepaid,LV,4,4,100,10,9,10,10,10,10,10
+STC,Other,Others,Nationals,Male,19,Postpaid,VLV,2,2,0,8,6,10,10,7,10,8
+STC,TABUK,Northern,Nationals,Female,45,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+STC,TABUK,Northern,Nationals,Female,27,Prepaid,HV,3,4,75,10,5,8,10,5,8,10
+STC,AR RIYADH,Central,Nationals,Male,24,Prepaid,VHV,5,4,125,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,30,Prepaid,VLV,5,5,150,10,10,10,9,10,10,10
+STC,JEDDAH,Western,Nationals,Male,30,Prepaid,MV,5,5,150,10,10,10,10,10,10,10
+STC,AR RASS,Central,Nationals,Male,33,Postpaid,HV,3,4,75,6,5,8,5,5,7,6
+STC,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,52,Postpaid,MV,1,5,50,0,10,10,0,0,10,0
+STC,YANBU AL BAHAR,Northern,Nationals,Male,21,Prepaid,MV,4,3,75,9,7,8,8,8,8,5
+STC,SAKAKA,Northern,Nationals,Male,56,Postpaid,VHV,3,4,75,8,8,8,8,7,10,8
+STC,JEDDAH,Western,Nationals,Male,22,Prepaid,VHV,3,3,50,7,9,7,7,7,10,9
+STC,JEDDAH,Western,Nationals,Male,27,Prepaid,MV,4,4,100,7,7,8,8,8,7,7
+STC,JEDDAH,Western,Nationals,Male,21,Prepaid,LV,3,3,50,6,8,5,7,3,9,6
+Zain,AR RIYADH,Central,Expat Arabs,Male,25,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+Zain,Other,Others,Expat Arabs,Male,29,Postpaid,LV,4,,50,,10,8,8,10,10,8
+Mobily,JEDDAH,Western,Nationals,Male,44,Prepaid,LV,4,3,75,4,8,4,10,8,10,5
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,35,Postpaid,LV,4,5,125,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,27,Postpaid,VLV,4,4,100,7,9,8,9,10,10,7
+Mobily,JEDDAH,Western,Expat Arabs,Male,36,Postpaid,VLV,5,3,100,8,8,8,9,9,9,7
+Mobily,Other,Others,Nationals,Male,15,Prepaid,VLV,4,3,75,7,9,5,7,9,8,8
+Mobily,AR RIYADH,Central,Expat Asians,Female,27,Prepaid,VLV,5,3,100,10,10,10,10,10,10,9
+Mobily,JIZAN,South,Expat Asians,Male,42,Prepaid,VLV,4,2,50,10,5,4,7,10,5,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,50,Postpaid,VLV,1,1,-50,0,4,0,0,0,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,30,Postpaid,HV,3,2,25,10,10,10,0,10,0,0
+Mobily,JEDDAH,Western,Nationals,Male,30,Prepaid,VLV,5,3,100,10,10,10,10,10,10,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,23,Prepaid,VLV,4,4,100,8,10,8,10,10,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,40,Postpaid,VLV,3,4,75,5,6,7,4,7,8,8
+Mobily,JEDDAH,Western,Expat Arabs,Male,28,Postpaid,HV,5,5,150,10,10,10,10,7,10,10
+Mobily,Other,Others,Nationals,Male,33,Prepaid,VLV,4,4,100,10,10,10,10,10,10,9
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,23,Postpaid,VHV,3,4,75,10,9,10,9,10,9,10
+Mobily,Other,Others,Nationals,Male,43,Postpaid,VHV,5,5,150,10,10,10,,10,10,8
+Mobily,JEDDAH,Western,Expat Arabs,Male,21,Prepaid,LV,4,4,100,6,10,8,10,6,7,9
+Mobily,AL KHUBAR,Eastern,Expat Asians,Male,43,Postpaid,MV,4,5,125,9,8,9,9,10,,9
+Mobily,AL KHUBAR,Eastern,Expat Asians,Male,30,Prepaid,VLV,5,3,100,8,8,9,10,10,9,9
+Mobily,JEDDAH,Western,Expat Arabs,Male,30,Postpaid,HV,1,2,-25,8,6,8,8,7,8,8
+Mobily,AR RIYADH,Central,Expat Arabs,Male,30,Prepaid,VLV,5,5,150,9,10,10,10,10,10,8
+Mobily,Other,Others,Nationals,Female,50,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Mobily,AD DAMMAM,Eastern,Expat Asians,Female,25,Postpaid,VLV,5,4,125,10,10,10,10,10,10,10
+Mobily,HAIL,Northern,Expat Asians,Male,32,Postpaid,VHV,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Asians,Male,27,Prepaid,LV,3,3,50,8,7,7,7,8,,7
+Mobily,UNAYZAH,Central,Nationals,Male,31,Prepaid,VLV,4,2,50,8,8,7,10,7,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Expat Arabs,Male,43,Prepaid,MV,5,5,150,10,10,10,10,10,10,6
+Mobily,TABUK,Northern,Nationals,Male,20,Prepaid,VLV,5,5,150,8,9,9,8,10,9,9
+Mobily,AR RIYADH,Central,Expat Asians,Male,35,Prepaid,LV,4,4,100,8,6,5,8,7,9,6
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,25,Postpaid,VHV,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,60,Postpaid,VHV,4,4,100,9,9,9,8,8,5,8
+Mobily,AL MAJMA'AH,Central,Nationals,Male,50,Postpaid,VHV,5,3,100,7,10,10,10,10,10,10
+Mobily,AR RIYADH,Central,Nationals,Female,54,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+Mobily,AL KHUBAR,Eastern,Nationals,Male,31,Postpaid,HV,4,4,100,6,8,8,7,8,9,6
+Lebara,AR RIYADH,Central,Nationals,Male,22,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+STC,Other,Others,Nationals,Male,20,Postpaid,LV,5,4,125,10,10,7,10,7,5,0
+STC,AR RIYADH,Central,Nationals,Male,33,Postpaid,VHV,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Female,30,Prepaid,VHV,5,3,100,9,8,8,7,10,7,9
+STC,AR RIYADH,Central,Nationals,Male,24,Postpaid,VHV,1,2,-25,10,0,9,7,5,10,4
+STC,AR RIYADH,Central,Expat Arabs,Male,27,Postpaid,HV,3,3,50,0,5,8,7,5,10,5
+STC,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,49,Postpaid,HV,3,3,50,6,0,0,6,6,0,6
+STC,AL JUBAIL,Eastern,Nationals,Male,36,Postpaid,HV,5,5,150,10,10,10,10,10,10,10
+STC,JIZAN,South,Nationals,Male,23,Prepaid,VLV,2,3,25,10,10,10,10,5,9,8
+STC,Other,Others,Nationals,Male,29,Postpaid,VHV,4,4,100,9,7,6,7,8,10,7
+STC,KHAMIS MUSHAYT,South,Nationals,Male,27,Prepaid,MV,1,1,-50,0,5,0,3,0,3,0
+STC,Other,Others,Nationals,Male,30,Postpaid,VHV,4,4,100,10,10,10,10,0,10,10
+STC,BAYSH,South,Nationals,Male,47,Prepaid,MV,4,5,125,10,10,10,10,10,10,10
+STC,Other,Others,Nationals,Male,23,Prepaid,HV,1,5,50,0,2,3,4,0,8,6
+STC,Other,Others,Nationals,Female,30,Postpaid,VHV,4,4,100,10,10,10,10,10,10,10
+STC,Other,Others,Nationals,Male,38,Postpaid,HV,4,,50,8,8,8,7,10,9,9
+STC,SAKAKA,Northern,Nationals,Male,30,Postpaid,VHV,5,5,150,5,10,5,5,10,10,10
+STC,NAJRAN,South,Nationals,Male,40,Prepaid,HV,2,3,25,10,0,10,3,8,9,7
+STC,AL BAHA,South,Nationals,Male,21,Postpaid,HV,1,1,-50,,0,10,0,0,10,2
+STC,AR'AR,Northern,Nationals,Male,32,Postpaid,VHV,5,3,100,10,7,10,0,8,10,7
+STC,HAIL,Northern,Nationals,Male,19,Prepaid,HV,4,5,125,5,9,5,10,7,8,10
+STC,AR RIYADH,Central,Nationals,Male,25,Prepaid,MV,4,4,100,8,8,7,9,7,5,8
+STC,AL KHUBAR,Eastern,Nationals,Male,35,Postpaid,HV,2,3,25,8,5,6,7,7,9,9
+STC,NAJRAN,South,Nationals,Male,34,Postpaid,MV,5,5,150,10,10,10,10,10,10,10
+STC,HAIL,Northern,Nationals,Male,22,Postpaid,MV,5,5,150,10,8,5,9,10,10,10
+STC,HAFAR AL BATIN,Eastern,Nationals,Male,24,Prepaid,HV,1,1,-50,0,10,10,0,0,10,5
+STC,AR RIYADH,Central,Nationals,Male,40,Postpaid,MV,4,2,50,9,8,9,8,9,10,8
+STC,AR RIYADH,Central,Expat Arabs,Male,32,Prepaid,HV,5,5,150,5,10,5,10,10,10,10
+STC,ABHA,South,Nationals,Male,50,Postpaid,LV,1,1,-50,5,5,10,5,8,10,5
+STC,JIZAN,South,Nationals,Male,39,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,35,Prepaid,MV,5,4,125,10,10,10,10,9,10,9
+STC,AL KHARJ,Central,Nationals,Female,27,Prepaid,MV,3,3,50,,10,10,10,,10,5
+STC,JIZAN,South,Nationals,Male,39,Postpaid,VHV,4,1,25,9,9,9,9,10,10,9
+STC,UNAYZAH,Central,Nationals,Male,54,Postpaid,LV,3,5,100,6,6,5,6,5,6,10
+STC,AL KHARJ,Central,Nationals,Male,38,Prepaid,MV,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,24,Postpaid,MV,5,3,100,10,7,9,8,9,10,8
+STC,JEDDAH,Western,Expat Asians,Male,33,Postpaid,VLV,2,2,0,9,10,9,9,9,9,9
+Zain,AR RIYADH,Central,Nationals,Male,31,Postpaid,LV,5,5,150,9,10,8,10,10,10,7
+Zain,JEDDAH,Western,Expat Arabs,Female,63,Prepaid,VLV,5,4,125,,8,9,9,9,9,8
+Zain,AR RIYADH,Central,Expat Arabs,Male,29,Postpaid,MV,5,4,125,10,10,10,10,10,10,6
+Zain,AL QATIF,Eastern,Nationals,Male,50,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+Zain,AL KHUBAR,Eastern,Expat Arabs,Male,51,Prepaid,MV,5,5,150,10,10,10,10,10,10,10
+Zain,JEDDAH,Western,Expat Arabs,Female,27,Prepaid,LV,5,4,125,6,10,10,10,10,10,8
+Zain,AR RIYADH,Central,Nationals,Female,29,Prepaid,HV,5,4,125,,9,9,10,9,9,
+Zain,AR RIYADH,Central,Nationals,Male,35,Postpaid,HV,3,3,50,1,8,5,0,5,10,0
+Zain,Other,Others,Nationals,Male,31,Postpaid,MV,4,5,125,0,8,4,6,5,5,4
+Zain,AR RIYADH,Central,Expat Arabs,Male,45,Postpaid,HV,5,1,50,8,6,7,8,8,10,5
+Zain,AR RIYADH,Central,Nationals,Male,19,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+Zain,AL JUBAIL,Eastern,Expat Asians,Male,30,Prepaid,VLV,5,3,100,9,7,9,9,9,6,6
+Zain,AT TAIF,Western,Nationals,Male,34,Postpaid,MV,5,4,125,10,10,10,10,8,10,10
+Zain,JIZAN,South,Nationals,Male,62,Prepaid,MV,4,1,25,9,9,9,9,9,10,8
+Zain,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,28,Prepaid,VLV,3,2,25,5,5,5,0,5,10,5
+Mobily,JEDDAH,Western,Nationals,Male,26,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Mobily,AL QATIF,Eastern,Nationals,Male,37,Postpaid,VHV,3,3,50,5,8,8,7,1,10,5
+Mobily,AD DAMMAM,Eastern,Nationals,Male,35,Postpaid,VHV,5,5,150,7,8,10,9,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,42,Prepaid,MV,3,3,50,6,6,8,6,5,8,6
+Mobily,YANBU AL BAHAR,Northern,Nationals,Male,29,Prepaid,VLV,3,3,50,7,5,10,8,4,10,10
+Mobily,SAKAKA,Northern,Expat Arabs,Male,26,Prepaid,VLV,3,4,75,7,6,10,10,5,10,10
+Mobily,TARUT,Eastern,Expat Arabs,Male,30,Postpaid,MV,5,5,150,10,10,10,10,10,10,10
+Mobily,NAJRAN,South,Nationals,Male,21,Postpaid,VHV,5,5,150,10,10,10,10,10,10,10
+Mobily,HAIL,Northern,Nationals,Male,25,Prepaid,LV,4,4,100,8,10,9,10,6,10,8
+Mobily,Other,Others,Nationals,Female,21,Prepaid,VLV,5,5,150,10,10,10,10,8,10,8
+Mobily,RAFHA',Northern,Nationals,Female,25,Prepaid,VHV,3,2,25,5,9,8,10,10,9,9
+Mobily,Other,Others,Nationals,Male,41,Prepaid,LV,4,5,125,8,10,10,10,9,10,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,31,Postpaid,LV,4,5,125,8,8,8,8,8,8,8
+Mobily,JEDDAH,Western,Nationals,Female,30,Prepaid,HV,4,3,75,9,9,8,8,8,7,7
+Mobily,BURAYDAH,Central,Expat Arabs,Male,32,Prepaid,VLV,2,3,25,8,10,8,10,8,10,8
+Mobily,AD DAMMAM,Eastern,Nationals,Male,34,Postpaid,MV,3,2,25,5,5,5,5,0,7,0
+Mobily,JEDDAH,Western,Nationals,Male,27,Prepaid,MV,3,4,75,10,10,10,10,7,10,7
+Mobily,AT TAIF,Western,Nationals,Female,26,Prepaid,LV,5,4,125,10,8,10,10,10,10,10
+Mobily,AL BAHA,South,Nationals,Male,45,Prepaid,LV,3,3,50,10,10,10,10,5,10,7
+Mobily,JEDDAH,Western,Nationals,Male,15,Postpaid,VLV,5,5,150,,10,10,10,10,10,10
+Mobily,Other,Others,Expat Arabs,Male,28,Prepaid,VLV,3,2,25,8,9,10,10,8,10,10
+Mobily,AD DAMMAM,Eastern,Nationals,Male,30,Prepaid,VLV,4,5,125,8,2,10,8,9,9,9
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,33,Postpaid,MV,4,3,75,,9,9,9,8,10,8
+Mobily,AL KHARJ,Central,Nationals,Male,47,Prepaid,VLV,2,3,25,6,6,6,6,6,6,6
+Mobily,JEDDAH,Western,Nationals,Male,41,Prepaid,VLV,4,4,100,10,8,10,10,10,10,8
+Mobily,AT TAIF,Western,Nationals,Male,30,Postpaid,VHV,5,5,150,10,10,10,10,10,9,10
+Mobily,TABUK,Northern,Nationals,Female,40,Postpaid,VHV,5,5,150,8,10,10,10,7,10,10
+Mobily,Other,Others,Nationals,Male,50,Prepaid,VLV,3,4,75,7,8,9,7,8,9,8
+Mobily,AL QATIF,Eastern,Nationals,Male,38,Prepaid,VLV,3,4,75,7,6,8,7,1,5,7
+Mobily,JEDDAH,Western,Nationals,Male,27,Prepaid,VLV,5,5,150,5,10,10,10,10,10,7
+Mobily,Other,Others,Nationals,Male,34,Prepaid,MV,4,3,75,7,8,10,10,8,10,10
+Lebara,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,44,Prepaid,HV,3,4,75,4,7,8,8,6,8,10
+STC,Other,Others,Expat Arabs,Male,39,Prepaid,HV,3,2,25,10,10,9,6,5,9,4
+STC,JEDDAH,Western,Nationals,Male,54,Postpaid,HV,3,4,75,8,8,9,8,7,10,7
+STC,HAIL,Northern,Nationals,Male,35,Prepaid,VHV,3,3,50,6,5,10,8,6,10,9
+STC,Other,Others,Nationals,Male,60,Postpaid,VHV,5,4,125,10,10,10,10,10,8,10
+STC,AT TAIF,Western,Nationals,Male,36,Postpaid,VHV,3,2,25,10,5,10,5,4,10,5
+STC,TABUK,Northern,Nationals,Male,45,Postpaid,VHV,3,,25,,8,5,7,0,4,5
+STC,AR RIYADH,Central,Nationals,Male,33,Prepaid,MV,4,4,100,,,10,8,10,10,6
+STC,AR RIYADH,Central,Nationals,Male,18,Prepaid,LV,4,5,125,10,8,9,9,8,8,2
+STC,ABHA,South,Nationals,Male,35,Postpaid,HV,4,4,100,10,6,10,10,10,10,10
+STC,NAJRAN,South,Nationals,Male,23,Prepaid,HV,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Expat Arabs,Male,24,Prepaid,LV,5,4,125,10,10,10,10,10,10,10
+STC,JEDDAH,Western,Nationals,Male,28,Prepaid,LV,3,5,100,10,0,0,10,10,10,0
+STC,Other,Others,Nationals,Male,32,Prepaid,MV,5,5,150,10,10,10,9,10,10,10
+STC,Other,Others,Nationals,Male,36,Postpaid,LV,4,5,125,8,10,8,8,10,10,5
+STC,Other,Others,Expat Arabs,Male,32,Postpaid,LV,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,50,Postpaid,VHV,1,1,-50,10,10,7,0,3,10,10
+STC,JEDDAH,Western,Nationals,Male,19,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,43,Postpaid,LV,3,2,25,5,5,7,6,0,10,8
+STC,AT TAIF,Western,Nationals,Male,53,Postpaid,VHV,4,2,50,7,6,10,10,9,10,9
+STC,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,24,Postpaid,VHV,2,4,50,10,8,6,8,8,7,8
+STC,AR'AR,Northern,Nationals,Male,41,Prepaid,HV,4,4,100,0,0,0,10,5,10,5
+STC,AR RIYADH,Central,Nationals,Male,29,Postpaid,VHV,4,5,125,7,10,10,10,10,10,5
+STC,AT TAIF,Western,Nationals,Male,34,Prepaid,LV,3,3,50,7,4,10,,7,8,10
+STC,AR RIYADH,Central,Nationals,Male,45,Prepaid,MV,5,3,100,10,10,10,10,10,10,10
+Zain,Other,Others,Nationals,Male,40,Postpaid,MV,3,3,50,8,9,7,7,8,7,9
+Zain,AT TAIF,Western,Nationals,Male,39,Postpaid,MV,5,3,100,5,7,3,5,0,5,0
+Zain,AL KHARJ,Central,Nationals,Male,21,Prepaid,VLV,4,4,100,10,10,10,10,8,10,10
+Zain,BURAYDAH,Central,Expat Arabs,Male,32,Prepaid,LV,4,5,125,10,10,9,10,10,10,3
+Zain,AR RIYADH,Central,Expat Arabs,Male,38,Prepaid,MV,4,3,75,9,9,10,9,7,9,9
+Zain,AR RIYADH,Central,Expat Arabs,Male,23,Prepaid,HV,4,4,100,7,8,7,8,6,6,8
+Zain,AR RIYADH,Central,Expat Arabs,Male,40,Prepaid,HV,5,5,150,10,10,10,10,10,10,10
+Zain,AR RIYADH,Central,Expat Arabs,Male,32,Postpaid,LV,4,1,25,9,8,8,10,9,10,8
+Zain,AL KHUBAR,Eastern,Nationals,Male,29,Postpaid,VHV,4,5,125,9,10,10,10,10,10,10
+Zain,AL KHUBAR,Eastern,Expat Arabs,Male,34,Prepaid,LV,4,4,100,6,10,8,7,7,7,10
+Zain,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,30,Prepaid,VLV,4,3,75,7,9,8,7,8,7,0
+Zain,AR RIYADH,Central,Nationals,Male,39,Postpaid,HV,4,5,125,7,8,8,8,8,8,6
+Zain,AR RIYADH,Central,Nationals,Male,26,Prepaid,MV,5,5,150,10,10,10,10,10,10,10
+Zain,AR RIYADH,Central,Nationals,Male,25,Postpaid,HV,5,5,150,10,10,10,10,10,10,10
+Mobily,KHAMIS MUSHAYT,South,Expat Arabs,Male,26,Prepaid,VLV,5,4,125,10,7,7,10,10,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,30,Prepaid,MV,4,4,100,0,8,10,8,8,8,8
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Female,17,Prepaid,LV,5,5,150,10,9,10,10,10,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,16,Prepaid,VLV,2,1,-25,7,9,10,10,7,5,10
+Mobily,AT TAIF,Western,Nationals,Male,33,Postpaid,HV,4,5,125,10,10,10,5,4,4,5
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Female,30,Postpaid,LV,3,5,100,9,8,8,8,9,8,8
+Mobily,UNAYZAH,Central,Nationals,Male,23,Postpaid,VHV,3,2,25,4,8,10,7,4,10,10
+Mobily,AL HUFUF,Eastern,Nationals,Male,25,Postpaid,LV,4,5,125,7,8,10,10,8,10,8
+Mobily,AL KHUBAR,Eastern,Nationals,Female,34,Prepaid,VLV,5,5,150,10,10,10,10,10,10,5
+Mobily,AL QATIF,Eastern,Nationals,Male,42,Postpaid,VLV,1,1,-50,10,3,2,,0,8,5
+Mobily,NAJRAN,South,Nationals,Male,18,Prepaid,VLV,5,3,100,10,8,10,10,10,10,8
+Mobily,AR RIYADH,Central,Nationals,Male,26,Postpaid,HV,5,3,100,10,10,10,10,10,10,10
+Mobily,AT TAIF,Western,Nationals,Male,49,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,26,Prepaid,MV,3,3,50,10,9,10,10,9,10,8
+Mobily,Other,Others,Nationals,Male,41,Prepaid,VLV,4,2,50,10,9,10,10,9,10,9
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Expat Arabs,Male,32,Postpaid,VLV,5,4,125,6,7,10,9,10,9,10
+Mobily,JIZAN,South,Nationals,Male,31,Prepaid,LV,1,3,0,7,4,9,8,2,6,8
+Mobily,AR RIYADH,Central,Expat Arabs,Male,45,Postpaid,VHV,5,5,150,5,7,3,7,10,8,7
+Mobily,MAKKAH AL MUKARRAMAH,Western,Expat Arabs,Male,26,Prepaid,VLV,5,4,125,,9,10,7,9,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,24,Postpaid,VHV,4,2,50,,10,10,6,7,10,9
+Mobily,Other,Others,Nationals,Male,50,Postpaid,LV,3,3,50,8,8,10,10,5,10,0
+Mobily,AR RIYADH,Central,Expat Asians,Male,33,Prepaid,VLV,3,3,50,6,8,9,9,8,5,8
+Mobily,AR RIYADH,Central,Expat Arabs,Male,33,Prepaid,VLV,3,4,75,6,6,6,6,6,9,5
+Mobily,AR RIYADH,Central,Expat Asians,Male,45,Prepaid,LV,4,4,100,8,8,8,2,8,,8
+Mobily,MAKKAH AL MUKARRAMAH,Western,Expat Arabs,Male,40,Prepaid,VLV,5,3,100,5,8,6,10,7,10,5
+Mobily,JEDDAH,Western,Expat Arabs,Male,45,Prepaid,VLV,3,4,75,10,10,10,10,10,10,8
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,24,Postpaid,MV,1,4,25,7,5,5,3,7,10,7
+Mobily,KHAMIS MUSHAYT,South,Nationals,Male,41,Prepaid,LV,5,4,125,4,,5,10,10,10,7
+Mobily,Other,Others,Nationals,Female,21,Postpaid,LV,5,4,125,10,10,10,8,10,10,7
+Mobily,AR RIYADH,Central,Expat Asians,Female,47,Prepaid,MV,3,3,50,7,6,7,7,7,5,7
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,57,Postpaid,VLV,4,3,75,7,9,9,8,10,8,9
+Mobily,ADH DHAHRAN,Eastern,Nationals,Male,38,Prepaid,MV,4,4,100,10,10,10,10,10,10,10
+Mobily,RAFHA',Northern,Nationals,Male,30,Prepaid,VLV,3,3,50,5,8,3,0,0,3,0
+Mobily,ABHA,South,Nationals,Male,31,Postpaid,HV,3,3,50,5,10,7,10,5,8,8
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Expat Asians,Male,27,Postpaid,VLV,4,4,100,7,8,6,10,8,10,8
+Mobily,JEDDAH,Western,Nationals,Male,48,Postpaid,VHV,3,3,50,5,2,5,5,3,3,5
+Mobily,ADH DHAHRAN,Eastern,Nationals,Male,29,Postpaid,VHV,4,4,100,10,9,9,9,10,10,10
+Mobily,SAYHAT,Eastern,Nationals,Male,34,Postpaid,VLV,3,2,25,,7,10,10,7,10,7
+Mobily,AL KHUBAR,Eastern,Nationals,Male,35,Postpaid,VLV,2,1,-25,,3,7,5,5,5,4
+Mobily,JEDDAH,Western,Nationals,Female,29,Postpaid,LV,5,5,150,10,10,10,10,10,10,10
+Mobily,Other,Others,Nationals,Male,25,Postpaid,VHV,1,1,-50,10,0,5,5,0,5,0
+Mobily,Other,Others,Nationals,Female,32,Postpaid,MV,4,1,25,9,5,10,9,10,10,10
+STC,AL KHUBAR,Eastern,Nationals,Male,30,Prepaid,LV,5,4,125,8,8,10,8,8,8,5
+STC,Other,Others,Nationals,Female,41,Postpaid,VHV,5,5,150,10,9,9,10,9,10,10
+STC,HAIL,Northern,Nationals,Male,19,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Female,22,Postpaid,LV,4,5,125,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,23,Prepaid,LV,5,5,150,10,9,10,10,10,9,8
+STC,JEDDAH,Western,Nationals,Male,52,Postpaid,HV,5,5,150,10,10,10,10,10,10,10
+STC,AL BAHA,South,Nationals,Male,32,Prepaid,LV,5,4,125,10,8,8,10,7,10,4
+STC,JIZAN,South,Nationals,Male,47,Postpaid,MV,5,5,150,10,10,10,10,10,10,10
+STC,NAJRAN,South,Expat Arabs,Male,29,Prepaid,LV,4,5,125,7,5,8,9,10,9,7
+STC,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,35,Postpaid,HV,3,2,25,2,1,1,2,0,3,2
+STC,BAYSH,South,Expat Arabs,Male,28,Prepaid,LV,4,4,100,9,10,5,9,10,7,10
+STC,KHAMIS MUSHAYT,South,Nationals,Female,30,Postpaid,VHV,5,4,125,10,10,10,10,10,10,10
+STC,JEDDAH,Western,Expat Arabs,Male,52,Postpaid,LV,4,,50,5,10,10,10,8,10,8
+STC,JEDDAH,Western,Nationals,Male,40,Postpaid,MV,5,5,150,10,10,10,10,10,,10
+STC,AR RIYADH,Central,Nationals,Female,35,Postpaid,VHV,3,3,50,6,10,10,10,6,9,10
+STC,AD DAMMAM,Eastern,Nationals,Male,56,Postpaid,HV,1,2,-25,2,2,0,0,0,0,0
+STC,YANBU AN NAKHL,Northern,Nationals,Male,22,Postpaid,HV,5,5,150,8,10,10,10,10,10,10
+STC,AL JUBAIL,Eastern,Nationals,Male,42,Postpaid,VHV,3,5,100,3,1,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,42,Prepaid,VLV,5,5,150,10,10,10,10,10,10,5
+STC,UNAYZAH,Central,Nationals,Male,30,Postpaid,HV,5,5,150,6,10,10,8,10,10,10
+STC,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,45,Postpaid,VHV,1,2,-25,0,4,4,5,3,5,5
+STC,AR RIYADH,Central,Nationals,Male,30,Prepaid,VLV,3,4,75,0,6,6,6,6,8,6
+STC,JEDDAH,Western,Expat Arabs,Male,31,Prepaid,MV,4,4,100,,7,10,10,10,10,4
+STC,KHAMIS MUSHAYT,South,Nationals,Male,55,Postpaid,VHV,5,4,125,9,10,10,9,9,9,9
+STC,AR RIYADH,Central,Nationals,Female,30,Prepaid,HV,5,5,150,5,5,9,10,10,10,10
+STC,TABUK,Northern,Nationals,Male,50,Postpaid,VHV,2,3,25,0,5,8,8,8,7,0
+STC,HAFAR AL BATIN,Eastern,Nationals,Male,50,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+STC,AD DAMMAM,Eastern,Nationals,Male,39,Postpaid,HV,5,5,150,7,8,7,7,8,8,7
+STC,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,35,Postpaid,VHV,1,1,-50,5,0,0,10,10,10,0
+STC,MAKKAH AL MUKARRAMAH,Western,Nationals,Female,35,Prepaid,VLV,2,2,0,9,10,5,5,10,5,10
+STC,Other,Others,Nationals,Male,53,Prepaid,HV,1,3,0,4,3,2,3,1,1,6
+STC,AL JUBAIL,Eastern,Nationals,Male,48,Postpaid,HV,3,3,50,8,0,8,3,2,2,3
+STC,AD DAMMAM,Eastern,Nationals,Male,45,Prepaid,LV,1,2,-25,1,3,8,8,3,8,0
+STC,KHAMIS MUSHAYT,South,Nationals,Male,41,Prepaid,VLV,5,5,150,10,10,10,8,10,10,10
+STC,ABHA,South,Nationals,Male,45,Postpaid,HV,3,4,75,10,10,8,9,8,8,9
+STC,AR RIYADH,Central,Nationals,Male,47,Prepaid,MV,5,5,150,10,10,10,10,10,10,10
+STC,AT TAIF,Western,Nationals,Male,27,Postpaid,VHV,5,5,150,10,10,10,10,10,10,7
+Zain,Other,Others,Expat Arabs,Male,29,Postpaid,VLV,3,2,25,10,10,10,10,10,10,10
+Zain,JEDDAH,Western,Nationals,Male,50,Prepaid,VLV,2,2,0,10,8,0,3,0,8,3
+Zain,AL MADINAH AL MUNAWWARAH,Northern,Expat Arabs,Male,58,Prepaid,LV,3,3,50,9,9,9,9,9,9,8
+Zain,JEDDAH,Western,Nationals,Male,41,Postpaid,MV,5,4,125,9,9,7,6,7,9,9
+Zain,AR RIYADH,Central,Expat Arabs,Male,18,Postpaid,MV,4,4,100,9,10,10,10,9,9,10
+Zain,AR RIYADH,Central,Expat Arabs,Male,43,Postpaid,HV,5,5,150,10,10,7,10,6,10,10
+Zain,Other,Others,Nationals,Female,17,Prepaid,LV,4,5,125,8,10,10,8,8,8,9
+Zain,AR RIYADH,Central,Expat Arabs,Male,27,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Zain,JEDDAH,Western,Expat Arabs,Male,41,Prepaid,LV,4,5,125,9,8,9,8,8,9,8
+Zain,BURAYDAH,Central,Nationals,Male,21,Postpaid,LV,4,5,125,10,10,10,9,9,10,10
+Zain,Other,Others,Nationals,Female,19,Prepaid,VLV,4,3,75,10,8,10,8,8,9,8
+Zain,AD DAMMAM,Eastern,Expat Arabs,Male,29,Prepaid,LV,3,3,50,6,5,10,8,4,8,6
+Mobily,MAKKAH AL MUKARRAMAH,Western,Expat Arabs,Male,23,Prepaid,VHV,4,4,100,2,8,8,,9,10,1
+Mobily,AR RIYADH,Central,Expat Arabs,Male,29,Prepaid,VLV,5,1,50,10,8,8,10,10,10,0
+Mobily,Other,Others,Nationals,Male,35,Prepaid,VLV,4,3,75,8,8,8,8,9,7,8
+Mobily,Other,Others,Nationals,Male,37,Postpaid,HV,5,5,150,10,10,10,10,7,10,10
+Mobily,AD DAMMAM,Eastern,Expat Asians,Male,31,Prepaid,LV,5,5,150,10,8,10,10,5,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,29,Postpaid,MV,4,4,100,9,9,9,9,9,9,8
+Mobily,JEDDAH,Western,Nationals,Male,27,Postpaid,VLV,5,3,100,10,10,10,5,1,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,29,Postpaid,HV,5,5,150,10,10,10,10,10,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,30,Prepaid,LV,2,2,0,10,10,10,10,8,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,42,Postpaid,VHV,3,3,50,8,8,6,7,5,5,8
+Mobily,BAYSH,South,Nationals,Male,45,Postpaid,VHV,3,5,100,10,8,9,10,6,10,8
+Mobily,AL HUFUF,Eastern,Nationals,Male,32,Prepaid,VLV,3,3,50,10,10,10,10,7,10,0
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,43,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+Mobily,AL KHUBAR,Eastern,Nationals,Male,34,Postpaid,VLV,5,5,150,8,9,10,,7,10,7
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,34,Prepaid,VLV,4,4,100,10,10,10,7,9,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,24,Prepaid,VLV,4,4,100,5,10,10,10,2,10,5
+Mobily,JEDDAH,Western,Nationals,Female,49,Postpaid,MV,5,4,125,10,9,10,10,10,10,8
+Mobily,JIZAN,South,Nationals,Female,27,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,30,Prepaid,MV,1,1,-50,0,5,9,5,0,10,0
+Mobily,YANBU AN NAKHL,Northern,Nationals,Male,40,Postpaid,VLV,3,3,50,7,10,7,10,0,10,0
+Mobily,HAIL,Northern,Nationals,Female,,Prepaid,LV,2,2,0,9,6,8,5,6,5,4
+Mobily,AL HADA,Western,Expat Arabs,Female,45,Postpaid,VLV,1,2,-25,10,4,5,7,8,9,9
+Mobily,Other,Others,Nationals,Male,42,Prepaid,LV,3,3,50,9,9,8,8,2,8,5
+Mobily,Other,Others,Expat Arabs,Male,52,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Female,37,Postpaid,LV,5,5,150,,8,10,8,10,8,10
+Mobily,TABUK,Northern,Nationals,Male,22,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,45,Prepaid,LV,5,5,150,9,10,6,10,10,10,8
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,32,Postpaid,VHV,1,1,-50,10,0,0,0,0,3,0
+Mobily,BURAYDAH,Central,Nationals,Male,53,Postpaid,MV,2,2,0,10,7,8,10,10,8,8
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,40,Postpaid,VHV,2,4,50,7,8,10,0,4,8,2
+Mobily,JEDDAH,Western,Nationals,Male,27,Prepaid,LV,5,3,100,1,10,10,10,9,10,10
+Mobily,SAKAKA,Northern,Nationals,Female,21,Prepaid,LV,5,5,150,10,10,10,10,10,10,8
+Mobily,AD DAMMAM,Eastern,Nationals,Male,58,Postpaid,VLV,5,5,150,10,10,10,10,5,10,10
+Mobily,BAYSH,South,Nationals,Male,50,Prepaid,VLV,3,2,25,10,10,10,10,10,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,27,Postpaid,HV,4,,50,,10,10,10,10,10,
+Mobily,AL KHUBAR,Eastern,Nationals,Male,50,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,44,Postpaid,HV,3,2,25,7,6,7,8,1,8,9
+Mobily,AR RIYADH,Central,Nationals,Male,30,Prepaid,MV,4,4,100,6,7,8,,8,10,
+Mobily,HAIL,Northern,Expat Asians,Male,30,Prepaid,VHV,3,3,50,6,5,7,8,6,,6
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Expat Arabs,Male,41,Postpaid,MV,5,4,125,10,8,8,7,10,10,
+Mobily,HAIL,Northern,Nationals,Male,35,Postpaid,VLV,3,2,25,5,6,6,6,5,3,6
+Mobily,Other,Others,Nationals,Male,28,Prepaid,VLV,5,1,50,10,10,10,10,10,10,2
+Mobily,AT TAIF,Western,Nationals,Male,19,Prepaid,VLV,5,5,150,10,10,10,10,8,8,10
+Mobily,AT TAIF,Western,Nationals,Male,23,Postpaid,MV,5,5,150,10,10,10,10,10,10,10
+Mobily,AL KHAFJI,Eastern,Expat Arabs,Male,42,Postpaid,LV,4,5,125,10,10,10,10,3,5,8
+Mobily,AD DAMMAM,Eastern,Nationals,Male,35,Postpaid,VHV,2,3,25,0,5,0,5,8,5,0
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,25,Postpaid,LV,5,5,150,0,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,43,Prepaid,MV,5,4,125,10,9,10,10,10,10,10
+Mobily,Other,Others,Nationals,Male,24,Postpaid,MV,4,2,50,5,6,5,4,4,10,6
+Lebara,AL JUBAIL,Eastern,Expat Asians,Male,28,Prepaid,MV,4,4,100,10,10,10,,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,67,Postpaid,LV,4,3,75,0,,10,9,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,36,Prepaid,VHV,4,5,125,10,10,10,10,10,10,10
+STC,Other,Others,Expat Arabs,Male,25,Prepaid,MV,3,3,50,7,10,10,5,10,10,10
+STC,BURAYDAH,Central,Nationals,Male,20,Prepaid,VHV,1,3,0,6,0,5,5,0,4,0
+STC,AR RIYADH,Central,Expat Arabs,Male,38,Postpaid,MV,3,3,50,10,10,10,8,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,45,Postpaid,HV,2,3,25,7,5,8,8,2,5,5
+STC,BAYSH,South,Expat Arabs,Male,18,Prepaid,VHV,1,1,-50,0,10,0,0,0,0,10
+STC,AR RIYADH,Central,Expat Arabs,Female,35,Prepaid,VLV,5,5,150,10,8,10,9,10,10,9
+STC,AR RIYADH,Central,Nationals,Male,30,Postpaid,VHV,5,5,150,10,10,9,9,6,10,10
+STC,Other,Others,Nationals,Male,24,Prepaid,LV,4,5,125,5,3,3,3,7,10,0
+STC,AL JUBAIL,Eastern,Expat Arabs,Male,51,Postpaid,VHV,2,4,50,10,3,8,5,3,10,8
+STC,AR RIYADH,Central,Nationals,Female,27,Postpaid,HV,5,5,150,10,9,9,9,9,10,7
+STC,JEDDAH,Western,Nationals,Male,40,Postpaid,LV,4,4,100,8,7,8,7,8,9,7
+STC,HAIL,Northern,Nationals,Male,40,Postpaid,VHV,1,1,-50,0,0,0,0,0,3,0
+STC,JEDDAH,Western,Expat Arabs,Male,39,Prepaid,VLV,4,1,25,8,10,10,10,10,10,10
+STC,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,55,Postpaid,MV,2,2,0,0,0,3,2,2,5,0
+STC,AR RIYADH,Central,Nationals,Male,32,Prepaid,VLV,5,5,150,1,0,0,0,10,0,10
+STC,JEDDAH,Western,Nationals,Female,26,Prepaid,VLV,4,3,75,10,10,10,10,10,10,10
+STC,ADH DHAHRAN,Eastern,Nationals,Female,16,Postpaid,VLV,3,4,75,10,0,10,10,0,10,10
+STC,AL JUBAIL,Eastern,Nationals,Female,30,Postpaid,VHV,4,3,75,,,10,,7,10,
+STC,Other,Others,Nationals,Male,30,Postpaid,HV,1,1,-50,0,1,0,5,0,,0
+STC,YANBU AN NAKHL,Northern,Nationals,Male,24,Prepaid,VLV,3,3,50,8,10,10,10,0,10,0
+STC,AL KHARJ,Central,Nationals,Male,28,Postpaid,VHV,5,5,150,10,10,10,10,10,10,10
+STC,HAFAR AL BATIN,Eastern,Nationals,Male,60,Prepaid,VLV,4,5,125,10,10,10,10,10,10,10
+STC,HAFAR AL BATIN,Eastern,Nationals,Male,25,Prepaid,VLV,5,5,150,10,10,10,10,10,10,10
+Zain,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,31,Postpaid,MV,3,3,50,6,2,7,5,5,7,2
+Zain,JEDDAH,Western,Nationals,Female,37,Prepaid,LV,2,3,25,5,4,0,4,0,10,7
+Zain,JEDDAH,Western,Expat Arabs,Male,34,Prepaid,MV,5,5,150,10,10,10,10,10,10,10
+Zain,AR RIYADH,Central,Nationals,Male,35,Prepaid,LV,5,1,50,10,7,7,5,5,8,7
+Zain,AR RIYADH,Central,Nationals,Male,23,Prepaid,HV,3,3,50,7,3,10,0,4,1,0
+Zain,AD DAMMAM,Eastern,Expat Arabs,Male,39,Prepaid,LV,5,5,150,10,10,10,10,10,10,10
+Zain,JEDDAH,Western,Nationals,Male,30,Postpaid,HV,5,5,150,10,10,10,10,10,10,10
+Zain,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,,Prepaid,LV,3,5,100,9,10,10,10,9,10,10
+Zain,MAKKAH AL MUKARRAMAH,Western,Expat Arabs,Male,23,Postpaid,MV,2,2,0,,5,7,6,6,9,
+Zain,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,30,Postpaid,VHV,3,1,0,0,0,0,0,0,0,0
+Zain,KHAMIS MUSHAYT,South,Nationals,Male,30,Postpaid,VLV,4,5,125,9,9,8,9,8,8,9
+Zain,AR RIYADH,Central,Nationals,Male,35,Postpaid,HV,4,4,100,3,7,8,8,8,6,5
+Zain,AR RIYADH,Central,Nationals,Male,30,Prepaid,LV,5,4,125,6,9,9,9,8,9,9
+Mobily,Other,Others,Expat Arabs,Female,42,PrepaidData,Data,3,4,75,9,8,10,7,7,10,
+Mobily,BURAYDAH,Central,Nationals,Male,30,PostpaidData,Data,5,4,125,10,5,10,10,10,10,10
+Mobily,AD DAMMAM,Eastern,Nationals,Male,34,PostpaidData,Data,4,4,100,10,10,10,10,10,10,10
+Mobily,Other,Others,Nationals,Male,35,PostpaidData,Data,3,2,25,7,5,5,5,5,3,7
+Mobily,KHAMIS MUSHAYT,South,Expat Arabs,Male,37,PrepaidData,Data,3,4,75,10,10,10,10,10,10,10
+Mobily,AHAD RIFAYDAH,South,Nationals,Male,45,PrepaidData,Data,3,3,50,10,7,8,10,7,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,45,PostpaidData,Data,5,3,100,9,10,10,10,10,10,9
+Mobily,AR RIYADH,Central,Nationals,Male,22,PostpaidData,Data,4,4,100,9,9,10,10,8,10,9
+Mobily,AL KHUBAR,Eastern,Expat Arabs,Male,57,PostpaidData,Data,3,4,75,10,10,10,10,10,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,38,PostpaidData,Data,4,3,75,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,30,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Expat Arabs,Male,33,PostpaidData,Data,3,4,75,9,10,9,10,7,8,8
+Mobily,AR RIYADH,Central,Expat Arabs,Male,40,PostpaidData,Data,5,5,150,10,10,10,10,10,0,
+Mobily,AR RIYADH,Central,Nationals,Male,36,PostpaidData,Data,4,1,25,6,6,6,6,8,6,6
+Mobily,JEDDAH,Western,Nationals,Male,44,PostpaidData,Data,4,3,75,8,9,10,10,9,10,7
+Mobily,AR RIYADH,Central,Nationals,Male,37,PostpaidData,Data,4,4,100,8,8,10,10,8,10,8
+Mobily,AR RIYADH,Central,Nationals,Male,42,PrepaidData,Data,5,5,150,10,8,10,10,9,10,10
+Mobily,Other,Others,Nationals,Male,29,PostpaidData,Data,3,4,75,9,10,10,10,7,9,7
+Mobily,JIZAN,South,Nationals,Male,33,PrepaidData,Data,3,4,75,5,7,6,7,3,5,8
+Mobily,JIZAN,South,Expat Asians,Male,31,PrepaidData,Data,5,3,100,,10,10,10,10,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Expat Arabs,Male,36,PrepaidData,Data,4,5,125,8,10,10,8,6,10,10
+Mobily,JEDDAH,Western,Nationals,Male,31,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+Mobily,Other,Others,Expat Arabs,Male,45,PostpaidData,Data,5,4,125,10,10,10,10,10,10,10
+Mobily,AD DAMMAM,Eastern,Nationals,Male,40,PostpaidData,Data,5,5,150,0,10,0,10,1,10,10
+Mobily,KHAMIS MUSHAYT,South,Nationals,Male,50,PrepaidData,Data,4,4,100,10,10,10,10,10,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,30,PostpaidData,Data,4,1,25,8,2,9,9,8,9,7
+Mobily,Other,Others,Expat Arabs,Male,29,PrepaidData,Data,4,4,100,7,5,5,5,5,5,0
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,39,PostpaidData,Data,4,4,100,6,9,8,9,9,9,8
+Mobily,TABUK,Northern,Nationals,Male,32,PrepaidData,Data,4,4,100,8,8,10,10,10,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Female,40,PrepaidData,Data,3,3,50,8,5,5,5,4,7,6
+Mobily,HAIL,Northern,Expat Arabs,Male,46,PostpaidData,Data,3,2,25,2,7,9,6,7,8,8
+Mobily,JIZAN,South,Expat Arabs,Male,40,PostpaidData,Data,4,2,50,,8,7,10,7,7,4
+STC,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,47,PostpaidData,Data,3,4,75,3,5,5,4,6,4,4
+STC,TABUK,Northern,Nationals,Male,60,PostpaidData,Data,5,4,125,5,5,10,10,10,10,10
+STC,AR RIYADH,Central,Expat Arabs,Male,40,PrepaidData,Data,5,5,150,10,10,10,10,10,10,10
+STC,AL KHARJ,Central,Nationals,Female,30,PrepaidData,Data,3,3,50,9,9,9,9,7,9,9
+STC,AD DAMMAM,Eastern,Nationals,Male,33,PostpaidData,Data,1,2,-25,5,4,6,6,2,8,6
+STC,YANBU AN NAKHL,Northern,Nationals,Male,38,PostpaidData,Data,5,5,150,6,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,45,PrepaidData,Data,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,45,PostpaidData,Data,5,,75,10,10,10,10,10,10,10
+STC,AD DAMMAM,Eastern,Nationals,Female,23,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+STC,AD DAMMAM,Eastern,Nationals,Male,39,PrepaidData,Data,3,5,100,10,7,5,5,7,10,8
+STC,Other,Others,Nationals,Male,35,PrepaidData,Data,5,4,125,7,7,8,9,6,7,9
+STC,AR RIYADH,Central,Nationals,Male,27,PostpaidData,Data,5,4,125,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Female,39,PrepaidData,Data,4,4,100,10,8,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,32,PostpaidData,Data,2,2,0,3,4,4,6,2,3,2
+STC,AD DAMMAM,Eastern,Nationals,Male,36,PostpaidData,Data,4,4,100,8,10,8,10,6,8,8
+STC,NAJRAN,South,Nationals,Male,41,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+STC,AL MAJMA'AH,Central,Nationals,Male,22,PrepaidData,Data,1,2,-25,0,0,0,0,0,10,0
+Zain,Other,Others,Nationals,Male,38,PostpaidData,Data,3,3,50,7,8,9,9,6,10,7
+Zain,AL KHUBAR,Eastern,Expat Arabs,Male,28,PrepaidData,Data,3,3,50,10,10,10,10,5,10,10
+Zain,AR RIYADH,Central,Expat Arabs,Male,30,PrepaidData,Data,4,3,75,8,7,10,8,9,10,10
+Zain,AR RIYADH,Central,Nationals,Male,36,PrepaidData,Data,5,5,150,10,10,10,10,10,10,10
+Zain,AR RIYADH,Central,Expat Arabs,Female,45,PrepaidData,Data,4,3,75,10,10,10,10,10,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,20,PostpaidData,Data,4,4,100,10,10,10,10,7,10,10
+Mobily,JEDDAH,Western,Nationals,Male,21,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+Mobily,AD DAMMAM,Eastern,Expat Arabs,Male,22,PrepaidData,Data,4,2,50,8,9,10,8,9,10,8
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,23,PrepaidData,Data,4,5,125,6,10,10,10,10,8,8
+Mobily,Other,Others,Nationals,Male,37,PrepaidData,Data,2,3,25,0,4,7,5,2,8,3
+Mobily,AL QATIF,Eastern,Nationals,Male,34,PostpaidData,Data,3,3,50,7,7,8,7,7,8,8
+Mobily,JEDDAH,Western,Nationals,Male,48,PrepaidData,Data,5,5,150,10,4,10,5,7,4,5
+Mobily,HAFAR AL BATIN,Eastern,Nationals,Male,40,PrepaidData,Data,3,3,50,5,10,9,9,8,8,8
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,43,PostpaidData,Data,1,3,0,,,10,10,3,4,5
+Mobily,JEDDAH,Western,Expat Arabs,Female,28,PostpaidData,Data,4,3,75,8,7,9,7,9,9,9
+Mobily,AD DAMMAM,Eastern,Expat Arabs,Male,29,PrepaidData,Data,3,2,25,5,7,5,7,6,8,6
+STC,TABUK,Northern,Nationals,Male,30,PrepaidData,Data,2,2,0,0,0,7,3,0,0,5
+STC,AR RIYADH,Central,Nationals,Male,27,PrepaidData,Data,5,5,150,10,10,10,10,9,,8
+STC,AR RIYADH,Central,Nationals,Male,30,PrepaidData,Data,2,1,-25,3,1,4,2,6,3,4
+STC,AR'AR,Northern,Nationals,Male,27,PostpaidData,Data,4,5,125,5,10,9,10,7,10,10
+STC,AR RIYADH,Central,Nationals,Male,18,PrepaidData,Data,4,4,100,8,3,6,6,6,5,8
+STC,AR RIYADH,Central,Nationals,Male,58,PostpaidData,Data,1,1,-50,10,4,5,10,0,4,9
+STC,TABUK,Northern,Nationals,Female,32,PrepaidData,Data,5,1,50,10,10,10,10,10,10,10
+STC,Other,Others,Nationals,Male,24,PrepaidData,Data,4,4,100,10,7,10,10,5,10,10
+STC,AR RIYADH,Central,Nationals,Male,25,PostpaidData,Data,3,2,25,4,2,0,0,2,7,8
+Mobily,Other,Others,Nationals,Male,51,PrepaidData,Data,3,2,25,7,6,7,7,5,6,6
+Mobily,Other,Others,Nationals,Female,34,PostpaidData,Data,3,3,50,10,7,8,8,5,8,8
+Mobily,TABUK,Northern,Nationals,Male,50,PostpaidData,Data,4,1,25,8,10,10,8,8,10,10
+Mobily,Other,Others,Nationals,Male,50,PostpaidData,Data,5,4,125,10,10,10,9,10,10,5
+Mobily,Other,Others,Nationals,Male,54,PostpaidData,Data,5,4,125,8,10,10,10,8,10,10
+Mobily,AL HUFUF,Eastern,Nationals,Female,50,PrepaidData,Data,4,3,75,5,0,8,5,5,10,
+Mobily,JEDDAH,Western,Nationals,Male,32,PrepaidData,Data,2,1,-25,5,7,3,3,5,5,3
+Mobily,Other,Others,Nationals,Female,33,PostpaidData,Data,4,4,100,10,10,10,10,10,10,10
+Mobily,HAFAR AL BATIN,Eastern,Nationals,Male,36,PrepaidData,Data,5,5,150,10,10,10,10,10,10,10
+Mobily,AT TAIF,Western,Nationals,Male,50,PrepaidData,Data,1,2,-25,7,2,5,7,1,10,8
+Mobily,Other,Others,Nationals,Male,42,PostpaidData,Data,3,3,50,7,8,10,9,7,8,8
+Mobily,Other,Others,Nationals,Male,40,PostpaidData,Data,2,3,25,0,2,7,,5,10,0
+Mobily,AT TAIF,Western,Nationals,Male,50,PostpaidData,Data,4,2,50,10,5,3,5,3,3,6
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,40,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+Mobily,TABUK,Northern,Expat Arabs,Male,34,PostpaidData,Data,3,4,75,7,8,7,7,8,9,7
+Mobily,BURAYDAH,Central,Expat Asians,Male,31,PostpaidData,Data,5,4,125,4,9,10,10,8,9,9
+Mobily,AR RIYADH,Central,Expat Arabs,Male,24,PostpaidData,Data,3,2,25,4,7,6,7,5,6,4
+Mobily,AT TAIF,Western,Expat Arabs,Male,18,PrepaidData,Data,5,5,150,8,7,10,,10,7,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Expat Arabs,Female,39,PostpaidData,Data,5,4,125,9,8,10,10,10,10,10
+Mobily,TABUK,Northern,Expat Arabs,Male,35,PrepaidData,Data,5,5,150,10,10,10,10,10,10,10
+STC,ABHA,South,Nationals,Male,72,PrepaidData,Data,5,5,150,10,10,10,5,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,60,PostpaidData,Data,4,5,125,7,7,8,8,8,8,6
+STC,AR RIYADH,Central,Nationals,Female,35,PostpaidData,Data,3,2,25,9,8,9,7,6,7,5
+STC,AT TAIF,Western,Expat Arabs,Female,28,PrepaidData,Data,5,3,100,7,6,10,10,9,10,10
+STC,Other,Others,Expat Arabs,Female,26,PrepaidData,Data,5,5,150,10,8,10,10,9,10,9
+STC,JIZAN,South,Nationals,Male,28,PostpaidData,Data,2,2,0,5,5,6,7,2,1,5
+STC,JEDDAH,Western,Expat Arabs,Female,50,PostpaidData,Data,3,3,50,,10,10,9,8,10,10
+STC,AR RIYADH,Central,Nationals,Female,34,PostpaidData,Data,4,3,75,10,8,10,9,9,8,7
+STC,Other,Others,Nationals,Female,25,PrepaidData,Data,3,3,50,6,8,3,10,5,10,7
+STC,AR RIYADH,Central,Nationals,Female,23,PrepaidData,Data,5,4,125,10,10,10,10,10,10,10
+STC,Other,Others,Nationals,Female,50,PostpaidData,Data,2,3,25,10,0,10,10,0,10,10
+Zain,JEDDAH,Western,Expat Arabs,Male,51,PrepaidData,Data,3,4,75,10,8,9,10,7,6,4
+Zain,AR RIYADH,Central,Expat Arabs,Male,28,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+Zain,JEDDAH,Western,Expat Arabs,Female,25,PostpaidData,Data,5,4,125,8,7,8,10,10,9,7
+Zain,AD DAMMAM,Eastern,Expat Arabs,Male,30,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+Zain,JEDDAH,Western,Nationals,Female,29,PrepaidData,Data,5,5,150,10,10,10,10,10,10,10
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Female,30,PostpaidData,Data,2,3,25,10,10,10,0,0,10,0
+Mobily,MAKKAH AL MUKARRAMAH,Western,Expat Arabs,Male,49,PostpaidData,Data,4,4,100,8,9,9,9,10,8,6
+Mobily,JEDDAH,Western,Nationals,Female,30,PrepaidData,Data,3,1,0,7,7,8,8,7,10,9
+Mobily,Other,Others,Nationals,Male,30,PostpaidData,Data,5,5,150,10,10,10,10,10,10,0
+Mobily,HAIL,Northern,Nationals,Female,35,PostpaidData,Data,5,4,125,10,10,10,5,10,10,7
+Mobily,Other,Others,Nationals,Male,50,PrepaidData,Data,4,4,100,5,8,9,8,8,7,
+Mobily,JEDDAH,Western,Nationals,Male,28,PostpaidData,Data,5,4,125,8,7,8,9,8,10,10
+Mobily,AT TAIF,Western,Nationals,Male,40,PostpaidData,Data,4,4,100,5,8,7,8,8,9,7
+Mobily,AR RIYADH,Central,Expat Arabs,Male,63,PostpaidData,Data,4,4,100,8,7,9,10,9,9,6
+Mobily,JEDDAH,Western,Expat Arabs,Male,34,PostpaidData,Data,4,5,125,9,9,10,9,9,9,10
+Mobily,AT TAIF,Western,Nationals,Male,23,PrepaidData,Data,4,3,75,7,7,4,7,7,8,7
+Mobily,AR RIYADH,Central,Nationals,Male,17,PrepaidData,Data,5,3,100,10,8,10,10,10,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,29,PrepaidData,Data,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,27,PostpaidData,Data,2,3,25,0,7,7,10,6,10,6
+Mobily,JEDDAH,Western,Nationals,Male,25,PostpaidData,Data,3,5,100,0,5,10,10,5,7,0
+STC,Other,Others,Nationals,Male,24,PrepaidData,Data,1,1,-50,3,2,6,5,8,3,5
+STC,AL KHUBAR,Eastern,Nationals,Male,35,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,24,PrepaidData,Data,4,5,125,5,6,3,10,10,10,4
+STC,BAYSH,South,Nationals,Female,25,PrepaidData,Data,2,1,-25,5,7,4,5,8,9,6
+STC,JEDDAH,Western,Nationals,Female,23,PostpaidData,Data,4,1,25,9,10,9,9,10,9,8
+STC,AR RIYADH,Central,Nationals,Male,27,PrepaidData,Data,5,4,125,10,10,10,5,10,10,10
+STC,AR RIYADH,Central,Expat Arabs,Female,26,PrepaidData,Data,5,5,150,8,10,10,8,10,10,7
+STC,AR RIYADH,Central,Nationals,Female,19,PrepaidData,Data,5,5,150,8,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Female,36,PrepaidData,Data,4,3,75,10,10,10,10,10,10,10
+Zain,Other,Others,Expat Arabs,Male,54,PostpaidData,Data,5,4,125,10,10,10,10,10,10,10
+Zain,AR RIYADH,Central,Nationals,Male,32,PrepaidData,Data,5,4,125,9,10,10,10,10,10,10
+Zain,JEDDAH,Western,Expat Asians,Male,32,PrepaidData,Data,3,4,75,8,9,9,9,9,9,9
+Mobily,AR RIYADH,Central,Nationals,Male,25,PostpaidData,Data,2,2,0,8,5,5,5,3,,4
+Mobily,Other,Others,Nationals,Male,31,PostpaidData,Data,3,2,25,6,7,7,7,4,8,3
+Mobily,JEDDAH,Western,Expat Arabs,Male,32,PostpaidData,Data,2,1,-25,,0,4,5,4,5,6
+Mobily,AD DAMMAM,Eastern,Expat Arabs,Male,27,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,20,PrepaidData,Data,5,4,125,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,57,PostpaidData,Data,2,3,25,5,5,5,8,5,5,
+Mobily,SAKAKA,Northern,Expat Arabs,Male,39,PostpaidData,Data,4,4,100,8,8,8,8,10,8,7
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Female,40,PrepaidData,Data,5,4,125,7,6,6,6,9,9,9
+Mobily,AR RIYADH,Central,Nationals,Male,42,PostpaidData,Data,,,0,7,5,7,8,3,5,9
+Mobily,AD DAMMAM,Eastern,Nationals,Male,35,PostpaidData,Data,4,5,125,10,8,8,8,10,8,8
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,37,PostpaidData,Data,4,3,75,7,8,8,9,8,9,9
+Mobily,JEDDAH,Western,Nationals,Male,35,PostpaidData,Data,5,4,125,,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Female,22,PrepaidData,Data,5,5,150,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Female,40,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,40,PostpaidData,Data,4,5,125,7,8,8,7,9,10,7
+STC,AR RIYADH,Central,Expat Arabs,Male,28,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+STC,JEDDAH,Western,Expat Arabs,Male,40,PrepaidData,Data,5,4,125,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,25,PrepaidData,Data,5,4,125,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,18,PostpaidData,Data,5,5,150,10,10,10,10,10,9,10
+STC,AR RIYADH,Central,Expat Arabs,Male,29,PrepaidData,Data,4,2,50,6,8,7,9,8,10,6
+STC,ABHA,South,Nationals,Male,50,PostpaidData,Data,2,1,-25,3,1,3,0,2,3,0
+STC,AL BAHA,South,Nationals,Male,60,PostpaidData,Data,1,1,-50,0,5,5,8,1,10,7
+STC,AR RIYADH,Central,Nationals,Male,39,PostpaidData,Data,4,3,75,9,9,9,9,9,9,9
+STC,JEDDAH,Western,Nationals,Female,50,PrepaidData,Data,4,4,100,9,9,10,9,9,10,9
+STC,AR RIYADH,Central,Expat Arabs,Female,24,PrepaidData,Data,3,3,50,6,10,10,10,10,9,10
+STC,AD DAMMAM,Eastern,Expat Arabs,Male,32,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+Zain,AR RIYADH,Central,Nationals,Male,43,PrepaidData,Data,5,5,150,10,10,10,10,10,10,10
+Zain,AL MADINAH AL MUNAWWARAH,Northern,Expat Arabs,Male,30,PostpaidData,Data,5,4,125,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Female,55,PostpaidData,Data,3,3,50,7,8,9,8,5,4,8
+Mobily,NAJRAN,South,Nationals,Male,24,PostpaidData,Data,5,3,100,7,10,8,10,9,10,8
+Mobily,AR RIYADH,Central,Expat Arabs,Male,55,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,36,PostpaidData,Data,3,3,50,7,6,5,6,4,6,7
+Mobily,JEDDAH,Western,Nationals,Male,25,PostpaidData,Data,3,4,75,8,10,8,10,5,10,5
+Mobily,AR RIYADH,Central,Nationals,Male,30,PostpaidData,Data,2,3,25,6,3,2,7,0,8,10
+Mobily,HAIL,Northern,Nationals,Male,42,PostpaidData,Data,4,4,100,10,10,10,10,10,10,10
+Mobily,JEDDAH,Western,Nationals,Male,32,PostpaidData,Data,1,2,-25,10,0,10,0,0,0,0
+Mobily,AR RIYADH,Central,Nationals,Male,40,PostpaidData,Data,4,3,75,9,8,9,9,9,9,8
+Mobily,JEDDAH,Western,Nationals,Male,20,PostpaidData,Data,4,5,125,10,10,10,10,10,10,10
+Mobily,AL QATIF,Eastern,Nationals,Male,42,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,33,PostpaidData,Data,3,3,50,9,7,9,10,10,10,10
+STC,HAFAR AL BATIN,Eastern,Expat Arabs,Male,28,PostpaidData,Data,4,4,100,9,10,10,10,,10,10
+STC,AR RIYADH,Central,Nationals,Male,35,PostpaidData,Data,3,2,25,3,4,4,4,4,4,3
+STC,AR RIYADH,Central,Nationals,Male,28,PostpaidData,Data,3,3,50,7,0,7,6,5,6,7
+STC,AR RIYADH,Central,Nationals,Male,27,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,42,PrepaidData,Data,5,3,100,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,40,PrepaidData,Data,4,5,125,10,10,10,10,8,10,10
+STC,AR RIYADH,Central,Nationals,Female,38,PostpaidData,Data,4,5,125,9,8,10,8,10,10,9
+STC,JEDDAH,Western,Nationals,Male,46,PostpaidData,Data,4,5,125,8,7,9,7,8,8,5
+STC,Other,Others,Expat Arabs,Female,28,PostpaidData,Data,2,3,25,7,4,10,10,6,10,5
+STC,AR RIYADH,Central,Expat Arabs,Male,25,PrepaidData,Data,5,5,150,10,10,10,10,10,10,10
+Zain,Other,Others,Expat Arabs,Male,17,PostpaidData,Data,5,4,125,10,10,9,7,10,10,7
+Zain,AR RIYADH,Central,Expat Arabs,Female,27,PostpaidData,Data,5,5,150,5,10,10,10,10,10,8
+Zain,JEDDAH,Western,Nationals,Female,25,PostpaidData,Data,5,5,150,10,,10,10,10,10,10
+Zain,Other,Others,Nationals,Female,18,PostpaidData,Data,5,5,150,8,8,9,10,10,10,6
+Zain,Other,Others,Expat Arabs,Male,19,PrepaidData,Data,4,5,125,8,8,9,8,10,10,8
+Mobily,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Male,29,PrepaidData,Data,1,1,-50,0,3,2,2,0,0,1
+Mobily,SAKAKA,Northern,Nationals,Male,17,PostpaidData,Data,4,3,75,10,10,10,10,10,10,10
+Mobily,HAFAR AL BATIN,Eastern,Nationals,Female,20,PostpaidData,Data,5,5,150,8,10,10,10,10,10,10
+Mobily,AR RIYADH,Central,Nationals,Male,19,PrepaidData,Data,5,5,150,10,10,10,9,10,10,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,40,PrepaidData,Data,4,2,50,7,,9,8,8,8,6
+Mobily,MAKKAH AL MUKARRAMAH,Western,Nationals,Male,51,PostpaidData,Data,4,4,100,9,8,7,8,6,9,
+Mobily,TABUK,Northern,Nationals,Male,23,PrepaidData,Data,4,2,50,8,0,10,5,8,10,7
+Mobily,JEDDAH,Western,Nationals,Male,46,PostpaidData,Data,1,1,-50,0,0,0,0,0,0,0
+Mobily,AD DAMMAM,Eastern,Expat Arabs,Male,36,PrepaidData,Data,4,3,75,8,10,10,10,10,10,10
+Mobily,AD DAMMAM,Eastern,Expat Asians,Male,28,PrepaidData,Data,3,3,50,10,10,10,10,10,10,10
+STC,BUQAYQ,Eastern,Nationals,Male,40,PostpaidData,Data,1,1,-50,3,0,0,0,3,1,3
+STC,TABUK,Northern,Nationals,Male,22,PostpaidData,Data,4,5,125,10,10,10,10,10,10,10
+STC,Other,Others,Nationals,Male,40,PrepaidData,Data,4,4,100,,5,10,10,10,10,10
+STC,Other,Others,Nationals,Male,31,PrepaidData,Data,2,3,25,2,1,2,2,0,1,1
+STC,Other,Others,Nationals,Male,27,PostpaidData,Data,4,4,100,7,8,10,10,9,10,10
+STC,AR RIYADH,Central,Expat Arabs,Male,59,PrepaidData,Data,5,4,125,10,10,10,10,10,10,10
+STC,Other,Others,Nationals,Female,23,PostpaidData,Data,5,4,125,10,10,7,10,10,10,10
+STC,Other,Others,Nationals,Male,24,PostpaidData,Data,4,5,125,9,10,10,10,10,10,10
+STC,Other,Others,Nationals,Male,29,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+STC,AD DAMMAM,Eastern,Nationals,Male,56,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+Mobily,AD DAMMAM,Eastern,Nationals,Male,30,PostpaidData,Data,2,3,25,5,7,10,8,8,10,8
+Mobily,AR RIYADH,Central,Expat Arabs,Female,42,PostpaidData,Data,2,,0,8,7,10,8,9,9,9
+Mobily,AR RIYADH,Central,Nationals,Male,54,PostpaidData,Data,1,3,0,10,10,10,10,10,10,10
+Mobily,NAJRAN,South,Expat Arabs,Male,22,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+Mobily,HAFAR AL BATIN,Eastern,Nationals,Male,40,PrepaidData,Data,5,4,125,7,10,10,10,10,10,10
+Mobily,AT TAIF,Western,Nationals,Male,42,PostpaidData,Data,4,3,75,8,7,8,8,6,8,6
+Mobily,AT TAIF,Western,Expat Arabs,Male,30,PrepaidData,Data,1,1,-50,0,0,6,0,0,2,0
+Mobily,MAKKAH AL MUKARRAMAH,Western,Expat Asians,Male,32,PrepaidData,Data,5,5,150,10,0,8,10,10,,10
+Mobily,HAIL,Northern,Expat Arabs,Male,47,PostpaidData,Data,2,3,25,10,7,8,8,7,8,9
+Mobily,AL QATIF,Eastern,Nationals,Male,32,PostpaidData,Data,4,3,75,10,8,9,8,9,10,7
+Mobily,Other,Others,Nationals,Female,27,PostpaidData,Data,3,3,50,10,10,10,10,3,10,10
+Mobily,AR RIYADH,Central,Expat Arabs,Male,40,PrepaidData,Data,4,2,50,7,5,6,7,8,8,7
+Mobily,AR RIYADH,Central,Expat Asians,Male,28,PostpaidData,Data,4,5,125,9,7,6,5,9,10,8
+Mobily,AR RIYADH,Central,Nationals,Male,21,PrepaidData,Data,2,1,-25,10,7,6,7,5,8,3
+STC,AR RIYADH,Central,Nationals,Male,56,PostpaidData,Data,4,4,100,8,8,8,8,7,10,8
+STC,AT TAIF,Western,Nationals,Male,56,PostpaidData,Data,3,3,50,7,5,4,6,5,4,7
+STC,AR'AR,Northern,Expat Arabs,Male,30,PrepaidData,Data,5,5,150,10,10,10,10,10,10,10
+STC,AL KHARJ,Central,Nationals,Male,36,PostpaidData,Data,2,3,25,3,0,6,0,3,1,2
+STC,AL MADINAH AL MUNAWWARAH,Northern,Nationals,Female,40,PostpaidData,Data,3,5,100,9,9,9,10,9,10,9
+STC,AD DAMMAM,Eastern,Expat Asians,Male,39,PrepaidData,Data,5,4,125,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,30,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+STC,JEDDAH,Western,Expat Arabs,Male,30,PostpaidData,Data,5,5,150,10,10,10,10,10,10,10
+STC,AR RIYADH,Central,Nationals,Male,39,PrepaidData,Data,5,5,150,10,10,10,10,10,10,10
+STC,Other,Others,Nationals,Female,20,PostpaidData,Data,4,1,25,10,10,10,10,10,10,10
+Zain,KHAMIS MUSHAYT,South,Nationals,Female,39,PrepaidData,Data,3,2,25,6,7,7,7,7,9,7
